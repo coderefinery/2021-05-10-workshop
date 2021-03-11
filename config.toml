@@ -3,7 +3,7 @@
 # change this:
 base_url = "https://coderefinery.github.io/template-workshop-webpage/"
 
-title = "Replace this title in config.toml"
+title = "CodeRefinery workshop April 13-15 and 20-22 (2021)"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -46,7 +46,7 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://example.org"
+registration_link = "https://indico.neic.no/event/178/"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
