@@ -1,3 +1,6 @@
+# Links to important documents
+- [Helper availability overview and exercise plan](https://docs.google.com/spreadsheets/d/1NeIRs7c8br0xjcxxETNd__19JtfEERe-KFd9JUjP0wU/edit#gid=0)
+
 # Template for CodeRefinery workshop webpages
 
 This repository is a template to set up webpages for CodeRefinery workshops.
