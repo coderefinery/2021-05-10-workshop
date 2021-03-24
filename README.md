@@ -72,8 +72,8 @@ To use it, follow these instructions:
   "year-month-date-place", e.g. `2019-10-16-stockholm` or `2019-10-16-online`.
 - Click "Create repository from template".
 - You will now be redirected to the new repository.
-- [x] test
-- [ ] test2
+- On "Settings" enable "GitHub Pages" from `gh-pages` as "Source".
+
 
 ### How to customize this template after you have created the repository
 
