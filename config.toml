@@ -1,9 +1,9 @@
 # The URL the site will be built for
 
 # change this (end in '/'):
-base_url = "https://coderefinery.github.io/2021-04-13-workshop/"
+base_url = "https://coderefinery.github.io/2021-05-10-workshop/"
 
-title = "CodeRefinery workshop April 13-15 and 20-22 (2021)"
+title = "CodeRefinery workshop May 10-12 and 18-20 (2021)"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false

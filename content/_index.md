@@ -40,7 +40,7 @@ The schedule includes frequent breaks.
 - date (weekday) from - to
 - date (weekday) from - to
 
-**Day 1 (date, weekday)**
+**Day 1 (May 10, Monday)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
@@ -48,17 +48,17 @@ The schedule includes frequent breaks.
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (TBA)
 
-**Day 2 (date, weekday)**
+**Day 2 (May 11, Tuesday)**
 - 9:00 - 12:00
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (TBA)
 
-**Day 3 (date, weekday)**
+**Day 3 (May 12, Wednesday)**
 - 9:00 - 12:00
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (TBA)
 
-**Day 4 (date, weekday)**
+**Day 4 (May 18, Tuesday)**
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
@@ -69,7 +69,7 @@ The schedule includes frequent breaks.
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
   (TBA)
 
-**Day 5 (date, weekday)**
+**Day 5 (May 19, Wednesday)**
 - 9:00 - 10:30
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
@@ -77,7 +77,7 @@ The schedule includes frequent breaks.
   [Documentation](https://coderefinery.github.io/documentation/)
   (TBA)
 
-**Day 6 (date, weekday)**
+**Day 6 (May 20, Thursday)**
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
   (TBA)
