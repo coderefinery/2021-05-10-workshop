@@ -29,32 +29,32 @@ confident in the material, you can register as an exercise leader.
 
 ## Schedule
 
-All times are in **Europe/Stockholm time**.
+All times are in **Europe/Stockholm time (CET)**.
 The schedule includes frequent breaks.
 
 **Helper onboarding**
-- date (weekday) from - to
-- date (weekday) from - to
+- May 5 (Wednesday) 12:00-13:00 CET 
+- May 6 (Thursday) 9:00-10:00 CET 
 
-**Installation help and verification times** (join anytime but please join)
-- date (weekday) from - to
-- date (weekday) from - to
+**Installation help and verification times** (drop in)
+- May 5 (Wednesday) 13:00-14:00 CET
+- May 6 (Thursday) 14:00-15:00 CET
 
 **Day 1 (May 10, Monday)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
-- 9:20 - 12:00
+- 9:20 - 12:30
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (TBA)
 
 **Day 2 (May 11, Tuesday)**
-- 9:00 - 12:00
+- 9:00 - 12:30
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (TBA)
 
 **Day 3 (May 12, Wednesday)**
-- 9:00 - 12:00
+- 9:00 - 12:30
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (TBA)
 
@@ -62,29 +62,29 @@ The schedule includes frequent breaks.
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
-- 9:00 - 11:00
+- 9:00 - 11:15
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
   (TBA)
-- 11:00 - 12:00
+- 11:15 - 12:30
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
   (TBA)
 
 **Day 5 (May 19, Wednesday)**
-- 9:00 - 10:30
+- 9:00 - 10:45
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
-- 10:30 - 12:00
+- 10:45 - 12:30
   [Documentation](https://coderefinery.github.io/documentation/)
   (TBA)
 
 **Day 6 (May 20, Thursday)**
-- 9:00 - 10:30
+- 9:00 - 10:45
   [Automated testing](https://coderefinery.github.io/testing/)
   (TBA)
-- 10:45 - 11:45
+- 11:00 - 12:15
   [Modular code development](https://coderefinery.github.io/modular-type-along/)
   (TBA)
-- 11:45 - 12:00
+- 12:15 - 12:30
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
   (TBA)
 
