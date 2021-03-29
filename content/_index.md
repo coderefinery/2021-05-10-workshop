@@ -38,7 +38,7 @@ The schedule includes frequent breaks.
 
 **Installation help and verification times** (drop in)
 - May 5 (Wednesday) 13:00-14:00 CET
-- May 6 (Thursday) 14:00-15:00 CET
+- May 6 (Thursday) 10:00-11:00 CET
 
 **Day 1 (May 10, Monday)**
 - 9:00 - 9:20
