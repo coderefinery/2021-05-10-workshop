@@ -46,17 +46,17 @@ The schedule includes frequent breaks.
   (TBA)
 - 9:20 - 12:30
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
-  (TBA)
+  (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 2 (May 11, Tuesday)**
 - 9:00 - 12:30
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
-  (TBA)
+  (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 3 (May 12, Wednesday)**
 - 9:00 - 12:30
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
+  (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 4 (May 18, Tuesday)**
 - 9:00 - 9:15
@@ -64,34 +64,44 @@ The schedule includes frequent breaks.
   (TBA)
 - 9:00 - 11:15
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
+  (Johan Hellsvik)
 - 11:15 - 12:30
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
+  (Anne Fouilloux and Samantha Wittke)
 
 **Day 5 (May 19, Wednesday)**
 - 9:00 - 10:45
   [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
+  (Radovan Bast)
 - 10:45 - 12:30
   [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
+  (Radovan Bast and Samantha Wittke)
 
 **Day 6 (May 20, Thursday)**
 - 9:00 - 10:45
   [Automated testing](https://coderefinery.github.io/testing/)
-  (TBA)
+  (Thor Wikfeldt)
 - 11:00 - 12:15
   [Modular code development](https://coderefinery.github.io/modular-type-along/)
-  (TBA)
+  (Anne Fouilloux)
 - 12:15 - 12:30
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
   (TBA)
 
 
+#### Host
+- Richard Darst
+
 #### Instructors
 
-- TBA
+- Radovan Bast
+- Anne Fouilloux
+- Johan Hellsvik
+- Diana Iusan
+- Juho Letonen
+- Sabry Razick
+- Thor Wikfeldt
+- Samantha Wittke
 
 
 #### Helpers
