@@ -29,7 +29,7 @@ navigation = [
     { name = "Requirements", path = "requirements/" },
     { name = "Q&A", path = "questions/" },
     { name = "Code of Conduct", path = "https://coderefinery.org/about/code-of-conduct/" },
-    { name = "Improve this page", path = "https://github.com/coderefinery/2021-05-10-workshop" }
+    { name = "Volunteer", path = "volunteer/" }
 ]
 
 twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png"
