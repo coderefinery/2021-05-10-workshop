@@ -43,7 +43,7 @@ The schedule includes frequent breaks.
 **Day 1 (May 10, Monday)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Sabry Razick)
 - 9:20 - 12:30
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (Diana Iusan, Juho Lehtonen, and Sabry Razick)
@@ -61,7 +61,7 @@ The schedule includes frequent breaks.
 **Day 4 (May 18, Tuesday)**
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Johan Hellsvik)
 - 9:00 - 11:15
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
   (Johan Hellsvik)
@@ -86,26 +86,35 @@ The schedule includes frequent breaks.
   (Anne Fouilloux)
 - 12:15 - 12:30
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  (Radovan Bast)
 
+
+#### Coordinators
+- Radovan Bast
+- Richard Darst
+- Diana Iusan
+- Naoe Tatara
+- Samantha Wittke
 
 #### Host
 - Richard Darst
 
-#### Instructors
+#### Instructors and expert helpers
 
 - Radovan Bast
 - Anne Fouilloux
 - Johan Hellsvik
+- Patric Holmvall
 - Diana Iusan
 - Juho Letonen
+- Stefan Negru
 - Sabry Razick
 - Thor Wikfeldt
 - Samantha Wittke
 
 
-#### Helpers
+#### Exercise leaders
 
-[Be a helper](volunteer/)
+[Be an exercise leader](volunteer/)
 
 - TBA
