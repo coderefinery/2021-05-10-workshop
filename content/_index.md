@@ -90,14 +90,18 @@ The schedule includes frequent breaks.
 
 
 #### Coordinators
+
 - Radovan Bast
 - Richard Darst
 - Diana Iusan
 - Naoe Tatara
 - Samantha Wittke
 
+
 #### Host
+
 - Richard Darst
+
 
 #### Instructors and expert helpers
 

@@ -6,6 +6,7 @@ workshops, and has coordination of roles.
 
 
 ## Quick reference
+
 - [Helper availability overview and exercise plan](https://docs.google.com/spreadsheets/d/1NeIRs7c8br0xjcxxETNd__19JtfEERe-KFd9JUjP0wU/edit#gid=0)
 - [Coordination HackMD](https://hackmd.io/@coderefinery/coordination-2021-05-10-crws): Coordination works happen here. Please visit it and write your name for the roles etc. of your interest and availability for this workshop!
 
