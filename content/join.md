@@ -39,17 +39,17 @@ interactive Zoom seat.
 
 Breakout rooms are not streamed, you'll do exercises by yourself.
 We'll often go over the exercises on stream, though.  You *will* be
-able to ask us questions, and you could form your own team and do
-exercises together.
+able to ask us questions, and we recommend that you form your own team and do
+exercises together.  We will support this as much as we can!
 
 
 
 ### Price and Zoom priority policy
 
-The course is free of charge, we are funded by the [Nordic e-Infrastructure
+The course is free of charge, funded by the [Nordic e-Infrastructure
 Collaboration](https://neic.no/).
 
-When we have more sign-ups as **individual learner** than our capacity allows, the following priority criteria apply:
+When we have more sign-ups as **individual learners** than our capacity allows, the following priority criteria apply:
 
 1. National universities or research institutes in Nordic countries and Estonia
 2. Private companies and government agencies in Nordic countries or Estonia
@@ -60,4 +60,9 @@ Therefore it is very important that you use an email address
 corresponding to your affiliation.  If you aren't accepted to the Zoom
 session, you can always attend the stream part.
 
-We will accept both **complete teams** (i.e. including at least one exercise leader that can attend all the days) and sign-ups as **exercise leader** as long as the technical capacity of Zoom meeting allows (currently it is 300).
+If you come as a **complete team** (i.e. including at least one
+exercise leader that can attend all the days), we will accept you up
+to the technical capacity of our meeting.  Same for **exercise
+leader** and other learners they bring with them (to combine with
+others).
+
