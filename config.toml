@@ -23,8 +23,8 @@ external_links_target_blank = true
 [extra]
 
 navigation = [
-    { name = "Schedule", path = "" },
-    { name = "Who the course is for", path = "audience/" },
+    { name = "About/Schedule", path = "" },
+    { name = "Audience", path = "audience/" },
     { name = "How to join", path = "join/" },
     { name = "Requirements", path = "requirements/" },
     { name = "Q&A", path = "questions/" },

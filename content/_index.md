@@ -5,23 +5,26 @@ title = "Schedule"
 ## Course goals
 
 In this course, you will become familiar with tools and best practices
-for scientific software development.  The tools we teach are
+for scientific software development.  We don't teach programming, but we teach the tools you need
+to do programming well and avoid common inefficiency traps.
+The tools we teach are
 practically a requirement for any scientist that has to do their own programming. The main
 focus is on using Git for efficiently writing and maintaining research
-software. We don't teach programming, but we teach the tools you need
-to do programming well.
+software.
 
 ## Format
-
-The workshop will be held online.  You can attend by registering and
-receiving the Zoom link, which lets you take part in teams and
-breakout rooms.  This will also be streamed MOOC-style via
-[Twitch](https://twitch.tv/coderefinery).
 
 This is an informal and interactive event with type-along lessons,
 live coding, and exercises. Learners are divided into exercise teams for
 interactivity - register with a friend!  If you feel a bit more
-confident in the material, you can [register as an exercise leader](volunteer/).
+confident in the material, you can [register as an exercise
+leader](volunteer/).
+
+The workshop will be held online.  You can attend by registering and
+receiving the Zoom link, which lets you take part in teams and
+breakout rooms.  This will also be streamed MOOC-style via
+[Twitch](https://twitch.tv/coderefinery), so anyone may watch and form
+their own breakout rooms.
 
 **Before signing** up please also read
 [this privacy note about tools/services we use](requirements/#privacy-and-tools-online-services).
@@ -29,18 +32,20 @@ confident in the material, you can [register as an exercise leader](volunteer/).
 
 ## Schedule
 
-All times are in **Europe/Stockholm time (CET)**.
+All times are in **Europe/Stockholm time (CEST)**. ([Convert 9:00 to
+your timezone](https://arewemeetingyet.com/Stockholm/2021-05-10/09:00))
 The schedule includes frequent breaks.
 
-**Helper onboarding**
-- May 5 (Wednesday) 12:00-13:00 CET 
-- May 6 (Thursday) 9:00-10:00 CET 
+**Exercise leader onboarding**
+- May 5 (Wednesday) 12:00-13:00 CET
+- May 6 (Thursday) 9:00-10:00 CET
 
 **Installation help and verification times** (drop in)
 - May 5 (Wednesday) 13:00-14:00 CET
 - May 6 (Thursday) 10:00-11:00 CET
 
 **Day 1 (May 10, Monday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Sabry Razick)
@@ -49,16 +54,19 @@ The schedule includes frequent breaks.
   (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 2 (May 11, Tuesday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 12:30
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 3 (May 12, Wednesday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 12:30
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (Diana Iusan, Juho Lehtonen, and Sabry Razick)
 
 **Day 4 (May 18, Tuesday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Johan Hellsvik)
@@ -70,6 +78,7 @@ The schedule includes frequent breaks.
   (Anne Fouilloux and Samantha Wittke)
 
 **Day 5 (May 19, Wednesday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 10:45
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (Radovan Bast)
@@ -78,6 +87,7 @@ The schedule includes frequent breaks.
   (Radovan Bast and Samantha Wittke)
 
 **Day 6 (May 20, Thursday)**
+- 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 10:45
   [Automated testing](https://coderefinery.github.io/testing/)
   (Thor Wikfeldt)
@@ -89,6 +99,10 @@ The schedule includes frequent breaks.
   (Radovan Bast)
 
 
+#### Contact
+
+- <support@coderefinery.org>
+
 #### Coordinators
 
 - Radovan Bast
@@ -96,12 +110,6 @@ The schedule includes frequent breaks.
 - Diana Iusan
 - Naoe Tatara
 - Samantha Wittke
-
-
-#### Host
-
-- Richard Darst
-
 
 #### Instructors and expert helpers
 
@@ -119,6 +127,6 @@ The schedule includes frequent breaks.
 
 #### Exercise leaders
 
-[Be an exercise leader](volunteer/)
+[Be an exercise leader](volunteer/).
 
 - TBA

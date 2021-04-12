@@ -15,7 +15,7 @@ title = "Prerequisites and software requirements"
   the basics anyway, but please go through
   [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
   for a basic overview and important configuration steps.
-- Make sure that Git is configured, and verify the configuration:
+- **Make sure that Git is configured**, and **verify the configuration**:
   [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
   [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
 
@@ -43,10 +43,11 @@ page. **You also need to check your git configuration**
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
 
 **You should either a) drop by one of our verification sessions in
-advance, or b) verify with your team's exercise leader before the workshop.**
+advance, or b) verify with your team's exercise leader before the
+workshop.** In a large workshop, we can't stop to fix things.
 
 If you have an institutional laptop with limited rights, start in advance
-and/or ask for help to translate these instructions to work on your system.:
+and/or ask for help to translate these instructions to work on your system:
 - [Instructions for Aalto University computers](https://scicomp.aalto.fi/news/coderefinery/)
 
 
