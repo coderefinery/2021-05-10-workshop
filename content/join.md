@@ -85,3 +85,6 @@ to help or there is something else we can do, please get in touch.
   the main lecture.
 * Lesson websites/HackMD use standard web technologies, so that
   browser accessibility plugins can be used.
+* We have figures in some lessons which are somewhat important,
+  without good alt text.  We are working on this, contributions
+  welcome.
