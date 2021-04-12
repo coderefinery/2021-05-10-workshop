@@ -66,3 +66,22 @@ to the technical capacity of our meeting.  Same for **exercise
 leader** and other learners they bring with them (to combine with
 others).
 
+
+### Accessibility
+
+We hope that everyone can attend and learn from this workshop, but we
+aren't perfect.  Our attempts are mentioned below, if you would like
+to help or there is something else we can do, please get in touch.
+
+* Breakout rooms with exercise leaders gives a community atmosphere
+  and private help.
+* Our material is provided in writing (lesson websites), by voice, and
+  by demo.
+* We record videos and post the notes so you can review at your own
+  pace later on.  Videos don't include audience voice or video.
+* HackMD allows anyone to ask questions anonymously and
+  asynchronously, without interrupting others.  On the other hand,
+  there are a *lot* of questions, so don't let it distract you from
+  the main lecture.
+* Lesson websites/HackMD use standard web technologies, so that
+  browser accessibility plugins can be used.
