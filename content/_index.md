@@ -2,6 +2,8 @@
 title = "Schedule"
 +++
 
+Soft deadline: **26th April 00:00 CEST** 
+
 ## Course goals
 
 In this course, you will become familiar with tools and best practices
