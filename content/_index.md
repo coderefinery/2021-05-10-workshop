@@ -40,11 +40,11 @@ The schedule includes frequent breaks.
 
 **Exercise leader onboarding**
 - May 5 (Wednesday) 12:00-13:00 CET
-- May 6 (Thursday) 9:00-10:00 CET
+- May 6 (Thursday) 12:00-13:00 CET
 
 **Installation help and verification times** (drop in)
 - May 5 (Wednesday) 13:00-14:00 CET
-- May 6 (Thursday) 10:00-11:00 CET
+- May 6 (Thursday) 13:00-14:00 CET
 
 **Day 1 (May 10, Monday)**
 - 8:50 - 9:00 connecting time, icebreaker
