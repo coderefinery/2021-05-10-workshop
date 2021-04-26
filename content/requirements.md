@@ -22,33 +22,9 @@ title = "Prerequisites and software requirements"
 
 ## Software requirements
 
-You need to install some software **before** the workshop
-([why we ask you to do this](https://coderefinery.github.io/installation/#why-are-we-asking-participants-to-install-software)).
-Please do this - and check it - in advance, otherwise you'll start off behind.
-
-Note that, e.g., a working Python executable on your laptop is not sufficient -
-a version greater than 3.4 is strongly recommended and a number of extra
-packages need to be installed as detailed on the Python installation
-page. **You also need to check your git configuration**
-([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
-
-- [Bash](https://coderefinery.github.io/installation/bash/)
-- [Editor](https://coderefinery.github.io/installation/editors/)
-- [Git](https://coderefinery.github.io/installation/git/), including
-  some **configuration**
-  - [(optional) git visual diff tools](https://coderefinery.github.io/installation/difftools/)
-- [Python](https://coderefinery.github.io/installation/python/)
-- [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
-- [Snakemake](https://coderefinery.github.io/installation/snakemake)
-- [Zoom](https://coderefinery.github.io/installation/zoom/)
-
-**You should either a) drop by one of our verification sessions in
-advance, or b) verify with your team's exercise leader before the
-workshop.** In a large workshop, we can't stop to fix things.
-
-If you have an institutional laptop with limited rights, start in advance
-and/or ask for help to translate these instructions to work on your system:
-- [Instructions for Aalto University computers](https://scicomp.aalto.fi/news/coderefinery/)
+You need to install some software **before the workshop starts**.
+Please follow the instructions and checklist on
+[this page](https://coderefinery.github.io/installation/).
 
 
 ## Privacy and tools/ online services
