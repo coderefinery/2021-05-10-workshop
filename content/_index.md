@@ -2,10 +2,12 @@
 title = "Schedule"
 +++
 
-Soft deadline: **26th April 00:00 CEST**.  Workshop is getting full,
-at this point mainly exercise leaders and teams with exercise leaders
-will be accepted.  Still, anyone may register to get notifications
-about the status.
+Soft deadline: **26th April 00:00 CEST**.  Workshop is practically
+full.  You can still register, but will mainly get emails about
+attending via the public livestream.  If you are a complete team or
+exercise leader, you might still be accepted.
+
+Registration confirmations will come within this week.
 
 ## Course goals
 
