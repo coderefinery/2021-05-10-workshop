@@ -9,6 +9,8 @@ exercise leader, you might still be accepted.
 
 Registration confirmations will come within this week.
 
+<span style="color:darkred;font-weight:bold">If you received registration confirmation, please follow the software installation instructions and checklist on [this page](https://coderefinery.github.io/installation/).</span>
+
 ## Course goals
 
 In this course, you will become familiar with tools and best practices
