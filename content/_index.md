@@ -2,14 +2,20 @@
 title = "Schedule"
 +++
 
-Soft deadline: **26th April 00:00 CEST**.  Workshop is practically
-full.  You can still register, but will mainly get emails about
-attending via the public livestream.  If you are a complete team or
-exercise leader, you might still be accepted.
+<div class="alert alert-info">
+<span style="color:darkred;font-weight:bold">News:</span>
 
-Registration confirmations will come within this week.
+* The workshop is full, but you can register to get emails about the
+  livestream attendance, including daily updates and asking questions.
 
-<span style="color:darkred;font-weight:bold">If you received registration confirmation, please follow the software installation instructions and checklist on [this page](https://coderefinery.github.io/installation/).</span>
+* Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
+[to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
+and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)
+
+* If you received registration confirmation, please follow the software installation instructions and checklist on [this page](https://coderefinery.github.io/installation/).  Livestream attendees need to do this as well.
+* Now is also a good time to read [how to join](join/) and [requirements](requirements/).
+
+</div>
 
 ## Course goals
 
@@ -29,11 +35,15 @@ interactivity - register with a friend!  If you feel a bit more
 confident in the material, you can [register as an exercise
 leader](volunteer/).
 
-The workshop will be held online.  You can attend by registering and
-receiving the Zoom link, which lets you take part in teams and
-breakout rooms.  This will also be streamed MOOC-style via
-[Twitch](https://twitch.tv/coderefinery), so anyone may watch and form
-their own breakout rooms.
+The workshop will be held online.
+
+* You can attend by registering and
+  receiving the Zoom link, which lets you take part in teams and
+  breakout rooms. (limited places)
+
+* Anyone may also attend via the livestream at
+  [twitch.tv/coderefinery](https://twitch.tv/coderefinery).  If you
+  register, you can get emails and link to ask questions.
 
 **Before signing** up please also read
 [this privacy note about tools/services we use](requirements/#privacy-and-tools-online-services).
