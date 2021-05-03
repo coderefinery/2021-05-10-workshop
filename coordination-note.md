@@ -18,6 +18,8 @@
 :::info
 Please write your name to the role or lesson that you are interested and/or you can take.  
 It is **not** first come, first assigned basis. We will coordinate by good conversation and negotiation :slightly_smiling_face: 
+Also, please note that this HackMD is for drafting and when it is agreed, it is pushed to the workshop repo.  
+**This push needs to be approved by CR staff.**
 :::
 
 ## Instructors 
@@ -65,7 +67,7 @@ encouraged.  Opt for efficiency over re-inventing things.
 
 - [ ] **(5.May, 13:00-14:00 (CEST)) Installation help 1:** Richard (may attend partially?), Samantha, Naoe 
 - [ ] **(6.May, 12:00-13:00 (CEST)) Installation help 2:** Richard (may attend partially?), Samantha, Naoe  
-- [ ] **(5.May, 12:00-13:00 (CEST)) Helper training 1:** Richard, Samantha, Naoe, Annajiat   
+- [ ] **(5.May, 12:00-13:00 (CEST)) Helper training 1:** Richard, Samantha, Naoe   
 - [ ] **(6.May, 13:00-14:00 (CEST)) Helper training 2:** Richard, Samantha, Naoe   
 
 
