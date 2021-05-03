@@ -46,12 +46,12 @@ your timezone](https://arewemeetingyet.com/Stockholm/2021-05-10/09:00))
 The schedule includes frequent breaks.
 
 **Exercise leader onboarding**
-- May 5 (Wednesday) 12:00-13:00 CET
-- May 6 (Thursday) 12:00-13:00 CET
+- May 5 (Wednesday) 12:00-13:00 CET ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-05/12:00))
+- May 6 (Thursday) 12:00-13:00 CET] ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/12:00))
 
 **Installation help and verification times** (drop in)
-- May 5 (Wednesday) 13:00-14:00 CET
-- May 6 (Thursday) 13:00-14:00 CET
+- May 5 (Wednesday) 13:00-14:00 CET] ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-05/13:00))
+- May 6 (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/13:00))
 
 **Day 1 (May 10, Monday)**
 - 8:50 - 9:00 connecting time, icebreaker
