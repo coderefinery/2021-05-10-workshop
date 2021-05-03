@@ -1,5 +1,8 @@
 # Coordination note for 2021 Spring CodeRefinery workshop
 
+[![hackmd-github-sync-badge](https://hackmd.io/l7VDOAyESLuOABRDVLQsvA/badge)](https://hackmd.io/l7VDOAyESLuOABRDVLQsvA)
+
+
 ###### tags: `workshop` `coordination`
 
 :::spoiler
