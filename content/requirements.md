@@ -6,25 +6,23 @@ title = "Prerequisites and software requirements"
 
 - You should be able to navigate the file tree in a terminal session and edit
   text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
+  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell/)
   ([video](https://youtu.be/56p6xX0aToI))
   contains the essentials.
 - Basics in one or more programming languages.
-- You need to install some software. See below.
 - It is useful if you have a basic idea of how Git works. We will start from
   the basics anyway, but please go through
   [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
   for a basic overview and important configuration steps.
+
+## Preparation
+
+- You need to install some software **before the workshop starts**.
+  Please follow the instructions and checklist on
+  [this page](https://coderefinery.github.io/installation/).
 - **Make sure that Git is configured**, and **verify the configuration**:
-  [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
+  [text instructions](https://coderefinery.github.io/installation/shell-and-git/),
   [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
-
-
-## Software requirements
-
-You need to install some software **before the workshop starts**.
-Please follow the instructions and checklist on
-[this page](https://coderefinery.github.io/installation/).
 
 
 ## Privacy and tools/ online services
