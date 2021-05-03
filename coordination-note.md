@@ -8,11 +8,15 @@
 :::spoiler
 **Links**
 - Workshop dates: 2021 May 10-12 (Mon-Wed), 18-20 (Tue-Thu), 9:00-12:30 CEST
-- Installation help and helper onboarding: TBD
+- Staff meeting (instructors, expert helpers, coordinators): 2021 May 4 (Tue), 10:00-11:00 CEST
+- Installation help and helper onboarding: 2021 May 5th and 6th, 12:00-13:00 CEST
 - [Workshop website](https://coderefinery.github.io/2021-05-10-workshop/)
 - [Workshop repository](https://github.com/coderefinery/2021-05-10-workshop)
 - [Indico page](https://indico.neic.no/event/178) 
 - [Helper availability overview](https://docs.google.com/spreadsheets/d/1NeIRs7c8br0xjcxxETNd__19JtfEERe-KFd9JUjP0wU/edit#gid=0)
+- [CR 2021 Exercise overview](/kEb3Tfe2RluiF7vdUSTj1A)
+- [Exercise leader hackmd May '21](/oUt-jWVgTdKM2vbPrk5tQg)
+- [Exercise leader onboarding](https://hackmd.io/YJiU17ZNQcSfOQjOrndNpg)
 :::
 
 :::info
