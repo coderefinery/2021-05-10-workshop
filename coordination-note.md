@@ -42,8 +42,8 @@ Remaining names without ** ** mean that they will co-work on lesson maintainance
         - Sharing repositories online, Inspecting history: **Juho**
         
 - Git collab: (**Juho, Sabry**, Diana)
-        - Concepts around collaboration, Distributed version control and forking workflow, How to contribute changes to somebody else's project: **Juho**
-        - Centralized workflow: Sabry
+    - Concepts around collaboration, Distributed version control and forking workflow, How to contribute changes to somebody else's project: **Juho**
+    - Centralized workflow: **Sabry**
 - Testing: **Thor**, Johan 
 - Modular coding: **Anne**, Radovan
 - Documentation: **Samantha and Radovan** (co-teaching)
