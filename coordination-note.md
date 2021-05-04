@@ -42,7 +42,7 @@ Remaining names without ** ** mean that they will co-work on lesson maintainance
         - Sharing repositories online, Inspecting history: **Juho**
         
 - Git collab: (**Juho, Sabry**, Diana)
-        - Concepts around collaboration, Distributed version control and forking workflow, How to contribute changes to somebody else's project: Juho
+        - Concepts around collaboration, Distributed version control and forking workflow, How to contribute changes to somebody else's project: **Juho**
         - Centralized workflow: Sabry
 - Testing: **Thor**, Johan 
 - Modular coding: **Anne**, Radovan
@@ -69,10 +69,10 @@ encouraged.  Opt for efficiency over re-inventing things.
 
 ### Workshop preparation:
 
-- [ ] **(5.May, 13:00-14:00 (CEST)) Installation help 1:** Richard (may attend partially?), Samantha, Naoe 
-- [ ] **(6.May, 12:00-13:00 (CEST)) Installation help 2:** Richard (may attend partially?), Samantha, Naoe  
-- [ ] **(5.May, 12:00-13:00 (CEST)) Helper training 1:** Richard, Samantha, Naoe   
-- [ ] **(6.May, 13:00-14:00 (CEST)) Helper training 2:** Richard, Samantha, Naoe   
+- [ ] **(5.May, 13:00-14:00 (CEST)) Installation help 1:** Richard (may attend partially?), Samantha, Naoe, (Juho comes late), Sabry, Radovan, Jarno
+- [ ] **(6.May, 13:00-14:00 (CEST)) Installation help 2:** Richard (may attend partially?), Samantha, Naoe, Juho, Sabry  
+- [ ] **(5.May, 12:00-13:00 (CEST)) Helper training 1:** Richard, Samantha, Naoe, Radovan   
+- [ ] **(6.May, 12:00-13:00 (CEST)) Helper training 2:** Richard, Samantha, Naoe, Juho   
 
 
 ### During workshop:
@@ -81,7 +81,7 @@ encouraged.  Opt for efficiency over re-inventing things.
 - [x] **Intro (Day 1):** Sabry
 - [x] **Mini-intro (Day 4):** Johan 
 - [x] **Concluding remarks (Day 6):** Radovan
-- [x] **Host:** Richard
+- [x] **Host:** Richard (if we go for 2 zoom room option, Diana will take learner's zoom room host in Week 2)
 - [x] **Communication with attendees:** Diana and Samantha
 - [ ] **HackMD:** (prepare hackmd enabling edit by anyone without log-in, keep hackmd organized to make postprocessing easy and postprocess)
   - [x] Day 1: Radovan
@@ -91,12 +91,12 @@ encouraged.  Opt for efficiency over re-inventing things.
   - [X] Day 5: Sabry
   - [x] Day 6: Diana
 - **Expert helpers:**
-  - [ ] Day 1: Patric, Stefan(after 9:30 CEST), Marijn, Jarno, Thor
-  - [ ] Day 2: Patric, Stefan(after 10:00 CEST), Marijn, Jarno, Thor
-  - [ ] Day 3: Patric, Stefan, Marijn, Jarno, Thor
-  - [ ] Day 4: Patric, Marijn, Jarno
-  - [ ] Day 5: Patric, Stefan, Marijn, Jarno
-  - [ ] Day 6: Patric, Stefan(after 10:00 CEST), Marijn, Jarno
+  - [ ] Day 1: Patric, Stefan(after 9:30 CEST), Marijn, Jarno, Thor, Radovan, Johan
+  - [ ] Day 2: Patric, Stefan(after 10:00 CEST), Marijn, Jarno, Thor, Radovan, Johan
+  - [ ] Day 3: Patric, Stefan, Marijn, Jarno, Thor, Radovan
+  - [ ] Day 4: Patric, Marijn, Jarno, Radovan
+  - [ ] Day 5: Patric, Stefan, Marijn, Jarno, Johan
+  - [ ] Day 6: Patric, Stefan(after 10:00 CEST), Marijn, Jarno, Radovan, Johan
 - [ ] **Production tech:** Richard
 - **Exercise leaders** are coordinated separately (via registration form)
 
@@ -106,3 +106,10 @@ encouraged.  Opt for efficiency over re-inventing things.
 
 This is to be decoupled.
 - [ ] **Send out survey:** (default: handled as part of another batch process)
+
+### Backup plan
+- We will inform where is the backup Zoom room.
+
+### Zoom technical demo
+- 7th May 15:00-16:00 CEST.
+- Learners room Zoom host: expert helper will be. Diana takes in week 2.
