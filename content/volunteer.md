@@ -11,18 +11,20 @@ This is a big task, but together with our volunteer exercise leaders,
 we can do it.
 
 Volunteer to be an **exercise leader** at CodeRefienry, and you will:
-- Get our quick exercise leader training (one hour, see schedule)
-- Have your own team (breakout room) during the course.
-- Help keep the team on track.  You are the first line of mentoring
-  and debugging, but you don't need to know everything.
+- Mentor and provide positive encouragement for your team; guide them
+  through the workshop.
+- Attend our quick exercise leader training (one hour, see schedule)
+- Have your own team (breakout room of ~5) during the course.
+- Help keep the team on track.  You are the first line, but you don't
+  need to know everything.
 - Call for other help when needed.  We are constantly moving around
   breakout rooms anyway.
 
-Don't be intimated.  The amount of initial knowledge you need isn't
-that much: if you have been to a CodeRefinery before, or have some
-basic familiarity with the command line, the some of tools we
-teach, and aren't too afraid of reading error messages, you will do
-fine.  Your job is more to guide people than solve every problem.
+Don't be intimated.  If you have some knowledge of git and the command
+line, you know all you need (the exercise leader will, of course,
+learn things as well).  If you have been to a CodeRefinery before, you
+are definitely qualified.  Your job is more to guide people and try to
+read error messages than solve every problem.
 
 **Am I good enough to be a exercise leader?**  If you are asking this
 question, probably you are.  You should have some familiarity with
