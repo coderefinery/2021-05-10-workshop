@@ -93,7 +93,7 @@ The schedule includes frequent breaks.
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
   (Johan Hellsvik)
 - 11:15 - 12:30
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
+  [Social coding and open software](https://coderefinery.github.io/social-coding/)
   (Anne Fouilloux and Samantha Wittke)
 
 **Day 5 (May 19, Wednesday)**
