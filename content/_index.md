@@ -139,15 +139,43 @@ The schedule includes frequent breaks.
 - Johan Hellsvik
 - Patric Holmvall
 - Diana Iusan
+- Anni Järvenpää
 - Juho Letonen
 - Stefan Negru
+- Jarno Rantaharju
 - Sabry Razick
 - Thor Wikfeldt
 - Samantha Wittke
 
+#### Exercise leaders :heart:
 
-#### Exercise leaders
+- Niket Agrawal
+- Octavian Andrei
+- Thomas Arildsen
+- Flavio Calvo
+- Ted Hsuan Yun Chen
+- Luca Ferranti
+- Marco Foscato
+- Manuel Garcia Alvarez
+- Luc Girod
+- Shashank Shekhar Harivyasi
+- Patric Holmvall
+- Sunniva Indrehus
+- Stig Rune Jensen
+- Matúš Kalaš
+- Alberto Lazzarotto
+- Lesetja Lekoloane
+- Pavlin Mitev
+- Devaraju Narayanappa
+- Fabricio Oliveira
+- Massimo Pizzol
+- Evgeny Posenitskiy
+- Annajiat Alim Rasel
+- Aili Sarre
+- Jannetta Steyn
+- Ingrid Strandberg
+- Naoe Tatara
+- Will Usher
 
 [Be an exercise leader](volunteer/).
 
-- TBA
