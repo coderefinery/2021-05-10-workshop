@@ -6,7 +6,9 @@ title = "Schedule"
 <span style="color:darkred;font-weight:bold">News:</span>
 
 * The workshop is full, but you can register to get emails about the
-  livestream attendance, including daily updates and asking questions.
+  livestream attendance, including daily updates and asking
+  questions.  (If you want to join an existing team, register as
+  livestream then contact us).
 
 * Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
 [to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
