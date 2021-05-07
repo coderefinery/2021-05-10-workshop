@@ -69,7 +69,7 @@ The schedule includes frequent breaks.
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (Sabry Razick)
+  (Richard Darst)
 - 9:20 - 12:30
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (Diana Iusan, Juho Lehtonen, and Sabry Razick)
