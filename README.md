@@ -14,9 +14,9 @@ workshops, and has coordination of roles.
 - [Indico page](https://indico.neic.no/event/178) 
 ### List of HackMD
 - [Coordination HackMD](https://hackmd.io/@coderefinery/coordination-2021-05-10-crws): Coordination works happen here. Please visit it and write your name for the roles etc. of your interest and availability for this workshop!
-- [CR 2021 Exercise overview](/kEb3Tfe2RluiF7vdUSTj1A): Please update your plan for exercise, approximate time to run the exercise sessions and how long they will be, as well as plan for breaks here.
-- [Exercise leader hackmd May '21](/oUt-jWVgTdKM2vbPrk5tQg)
-- [Exercise leader onboarding](https://hackmd.io/YJiU17ZNQcSfOQjOrndNpg)
+- [CR 2021 Exercise overview](https://hackmd.io/@coderefinery/CR_May21_Exercises): Please update your plan for exercise, approximate time to run the exercise sessions and how long they will be, as well as plan for breaks here.
+- [Exercise leader hackmd May '21](https://hackmd.io/@coderefinery/exerciseleader_may21/edit)
+- [Exercise leader onboarding](https://hackmd.io/@coderefinery/exerciseleaderonboarding)
 ### Expert Helper/Exercise Leader coordination sheet
 - [Helper availability overview and exercise plan](https://docs.google.com/spreadsheets/d/1NeIRs7c8br0xjcxxETNd__19JtfEERe-KFd9JUjP0wU/edit#gid=0)
 
