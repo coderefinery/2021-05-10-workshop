@@ -43,6 +43,7 @@ logos = [
 
 # adapt this
 registration_link = "https://indico.neic.no/event/178/"
+source_repo = "https://github.com/coderefinery/2021-05-10-workshop"
 
 # uncomment as soon as registration opens
 registration_is_open = true
