@@ -12,3 +12,5 @@ here.
 
 As workshop participant please avoid using personal information (except maybe
 in the icebreaker section which we will not copy into here).
+
+- [Day 1 questions and notes](/questions/day1/)
