@@ -10,7 +10,6 @@ feedback from the collaborative notes.
 As workshop organizer please make sure to not paste any personal information in
 here.
 
-As workshop participant please avoid using personal information (except maybe
-in the icebreaker section which we will not copy into here).
+As workshop participant please avoid using personal information.
 
 - [Day 1 questions and notes](./day1)
