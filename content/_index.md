@@ -5,17 +5,20 @@ title = "Schedule"
 <div class="alert alert-info">
 <span style="color:darkred;font-weight:bold">News:</span>
 
-* The workshop is full, but you can register to get emails about the
+* [Videos can be found for 14 days on Twitch](https://www.twitch.tv/coderefinery/videos).
+
+* The workshop has started, but you can register to get emails about the
   livestream attendance, including daily updates and asking
-  questions.  (If you want to join an existing team, register as
-  livestream then contact us).
+  questions.
 
 * Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
 [to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
 and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)
 
-* If you received registration confirmation, please follow the software installation instructions and checklist on [this page](https://coderefinery.github.io/installation/).  Livestream attendees need to do this as well.
-* Now is also a good time to read [how to join](join/) and [requirements](requirements/).
+* Now is also a good time to read [how to join](join/),
+  [requirements](requirements/), and
+  [tinstallation](https://coderefinery.github.io/installation/) if you
+  haven't done it yet
 
 </div>
 
