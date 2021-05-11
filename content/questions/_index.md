@@ -13,3 +13,4 @@ here.
 As workshop participant please avoid using personal information.
 
 - [Day 1 questions and notes](./day1)
+- [Day 2 questions and notes](./day2)
