@@ -381,11 +381,7 @@ https://coderefinery.github.io/reproducible-research/04-workflow-management/
 
 
 #### Exercise: Snakemake
-:::info
 Link: https://coderefinery.github.io/reproducible-research/04-workflow-management/#exercise-using-snakemake
-Duration: until xx:45
-Please try to do what you can, but if you don't get it all done that is OK.
-:::
 
 - suggrstion for instructions: split point 1. into two points.
 
@@ -577,10 +573,8 @@ Questions from https://coderefinery.github.io/social-coding/social_coding/
 
 
 ### Exercise
-:::info
-Link: bottom of https://coderefinery.github.io/social-coding/social_coding/#what-contributes-to-reusability
-Until xx:05
-:::
+
+bottom of https://coderefinery.github.io/social-coding/social_coding/#what-contributes-to-reusability
 
 #### Recommendation - Room 1
 - Companies-Universitiy collaborations must include clauses on code reusability and openess of code.
@@ -693,15 +687,6 @@ Until xx:05
            - the data archive is copied and will persist even if you delete github account/repo
                - Very very important! Good!
     - Awesome about Zenodo: You can edit all the "metadata" (authors, abstract, links, release date) later, which is very handy. You can add ORCIDs and other links! (The archived data|code themselves cannot be updated unless you release|upload a new version)
-
-
-:::info
-#### Break until xx:12
-:::
-
-- Please remember to turn off your video before returning to main room.  Otherwise it will be turned off.
-
-
 
 
 ## Licensing
