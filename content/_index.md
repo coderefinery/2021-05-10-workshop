@@ -5,6 +5,8 @@ title = "Schedule"
 <div class="alert alert-info">
 <span style="color:darkred;font-weight:bold">News:</span>
 
+* Livestream: <https://twitch.tv/coderefinery/>.
+
 * [Videos can be found for 14 days on Twitch](https://www.twitch.tv/coderefinery/videos).
 
 * The workshop has started, but you can register to get emails about the
