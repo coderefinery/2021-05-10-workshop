@@ -374,7 +374,7 @@ https://coderefinery.github.io/reproducible-research/04-workflow-management/
     - no it's completely general and can run any programs. Snakemake itself is written in python though and its syntax is a superset of Python
 
 - Any comments on mamba, the package manager that is recommended for use with snakemake? Does it do something that is better than conda?
-    - **unanswered**
+    - To my knowledge same functionality as Conda but faster dependency resolution.
 
 - Why the time  command gives different real times if i run the same command?
     - other processes running on your computer can affect the time it takes to run your program.
@@ -559,7 +559,8 @@ Questions from https://coderefinery.github.io/social-coding/social_coding/
 
 
 - Perhaps CodeRefinery could create a badge for reviewers that want to impose the publication of code?
-    - **unanswered**
+    - It is difficult to force this but we are trying to lobby for it and it starts with us when we review papers
+      and assist researchers submitting papers.
 
 - What if our code get used, but doesn't get cited?
     - I had this issue before. I contacted the user and informed them of the software license and need for attribution. It was lack of knowledge rather than malicious behaviour (the authors shared their code on Github, so I could search for source code strings and find hits). Make it very very clear how to cite your software! E.g a copy/paste reference in the readme.
@@ -715,7 +716,7 @@ https://coderefinery.github.io/social-coding/licensing/
 - the rewriting of a code in a different language is probably close-to-impossible to prove...
   - Like many things, it's not an issue until it is... see some recent court cases, luckily our stuff is probably never so important this is a risk.
       - do you have a link to some of those cases?
-         - **unanswered**
+         - Unsure what was meant, perhaps Google vs. Oracle?
 
 - At least for me, I cannot always separate codes I write for work and code I write for hobby. Many times I start something for hobby and then realise I can use it in my research, I guess at least in that case I own my codes. On the other side, it sounds like a loophole to avoid giving up ownership.
   - In this case I say I open everything for work... so it doesn't matter who owns, it will be opened anyway.  Chance of issue then is small (but certainly exists...)
@@ -733,9 +734,7 @@ https://coderefinery.github.io/social-coding/licensing/
     - Some countries will not enforce weird licenses, or the weird parts of them. Many start with the declaration that if any part is not enforcable, others should remain in effect.
 
 - Regarding copyright/licenses: let's say I want to include an image from a journal publication in a tweet. Is it enough to add the citation/copyright in the tweet/as a watermark in the image?
-    - **unanswered**
-
-
+    - In my understanding this is possible within "fair use": for educational, non-commercial purposes, with source cited.
 
 - **Learning Bash shell:**
     - [Command line essentials for Bioinformaticians](https://bcc2020cle.bioinformatics.guide/) ([Slides here](https://rpubs.com/iracooke/bcc2020cle), [Video here](https://bcc2020.sched.com/event/c7Sz/command-line-essentials-for-bioinformaticians) or on [Vimeo](https://vimeo.com/441683367), Hands-on exercises linked from the first site) - In fact most of it is not bioinformatics-specific just the the example problem is
