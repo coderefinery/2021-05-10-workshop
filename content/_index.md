@@ -19,7 +19,7 @@ and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/is
 
 * Now is also a good time to read [how to join](join/),
   [requirements](requirements/), and
-  [tinstallation](https://coderefinery.github.io/installation/) if you
+  [installation](https://coderefinery.github.io/installation/) if you
   haven't done it yet
 
 </div>
