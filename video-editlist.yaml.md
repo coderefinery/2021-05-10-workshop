@@ -41,12 +41,12 @@ Help us edit videos!
     - 2:53:20, 3:20:53  # Lesson (Sabry)
     - 31:14: Overview of the day
     - 33:25: Motivation to version control
-    - 41:28: Real-life repository examples
+    #- 41:28: Real-life repository examples
     - 48:35: Basics of version control
     - 1:18:22: "Exercise: record changes"
     - 1:51:13: "Summary so far: basic git commands"
     - 1:52:02: Using the staging area
-    - 1:58:45: Interactive committing
+    #- 1:58:45: Interactive committing
     - 2:28:44: "Exercise: Using the staging area"
     - 2:53:56: Ignoring things with .gitignore
     - 2:57:54: Undoing things
