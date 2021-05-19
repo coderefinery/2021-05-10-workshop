@@ -83,30 +83,73 @@ TODO: all, note the new format
 ```
 
 ## Day 3
-TODO: all
+All done
 
 ```yaml
 
 - input: cr-2021may-day3-git-collab-twitch.mp4
 - output: day3-intro.mp4
   time:
-    - start: ???
-    - end: ???
-    - start: ???
-    - end: ???
+    #Remove part before the start
+    # soft start
+    #- start: 12:35 
+    #- end: 21:38
+    #wellcome
+    - start: 21:39
+    - end: 23:44
 
 - output: day3-git-collab.mp4
   time:
-    - start: ???
-    - end: ???
-    - start: ???
-    - end: ???
+        #intro, Centralized workflow (Sabry)
+    - start: 23:45
+    - end: 1:13:20
+    #Remove discussion about break 
+    #Explain excersise(Sabry)
+    - start: 1:27:48
+    - end: 1:31:08
+    #People moving to BRO
+    #Excersise for twitch viewers(Sabry)
+    - start: 1:33:25
+    - end: 1:34:06
+    #small pose
+    #Excersise for twitch viewers 2 (juho)
+    - start: 1:37:08
+    - end: 1:51:02
+    # **Remove video of partticipant poping up**
+    - start: 1:57:25
+    - end: 2:22:35
+    #Break
+    - start: 2:33:29
+    - end: 2:47:20
+    #BO room at 02:50:31 videos appear and should be removed
+    - start: 2:50:51
+    - end: 3:02:21
+    #Waiting for Bo people to return, remove username on video 
+    - start: 3:08:00
+    - end: 3:28:37
+    #Remove a video flash
+    - start: 3:34:45
+    - end: 3:51:12
+    
+    #End 3:51:12
+    
+    #intro : 21:39 Diana
+    #intro : 23:45 Juho
+    #Concepts arround cooloboraiton 28:58 Juho
+    # Centralized workflow : 41:41 Sabry
+    #excersise intro :01:27:48 sabry
+    #Excersise for Twitch 1:33:25 Sabry
+    #Coolaborative distribute VC : 02:15:09 (Juho)
 
 ```
 
 ## Day 4
 
+TODO: intro
 TODO: reproducible research
+
+* Social coding
+  * Presenter approved: YES
 
 ```yaml
 - input: cr-2021may-day4-obs.mkv
@@ -166,6 +209,13 @@ TODO: reproducible research
 ## day 5
 
 All done!
+
+* Intro
+  * Prester approved: no
+* Jupyter
+  * Presenter approved: pending
+* Documentation
+  * Presenter approved: YES
 
 ```yaml
 
