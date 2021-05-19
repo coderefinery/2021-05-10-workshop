@@ -57,23 +57,58 @@ Help us edit videos!
 
 ## Day 2
 
+TODO: all, note the new format
+
 ```yaml
 
-# This input will be used for all segments until redefined
-- input: cr-2021may-day2-
+# Use Twitch for day 2
+- input: cr-2021may-day2-twitch.mp4
+
+- output: day2-intro.mp4
+  time:
+    - start: 11:30
+    - end: 24:40
 
 # Git-intro day 2
 #- output: day2-git-intro-2.mp4
 #  time:
-#    - ??:??, ??:??      # Lesson (Sabry)
+#    - start: ??:??      # Lesson (Sabry)
+#    - 1:45: Title of section
+#    - 5:45: Title of Section
 #    - : Branching and Merging
 #    - : Conflict resolution
 #    - : Sharing repositories online
 #    - : Inspecting history
+#    - end: XX:??
+```
 
+## Day 3
+TODO: all
+
+```yaml
+
+- input: cr-2021may-day3-git-collab-twitch.mp4
+- output: day3-intro.mp4
+  time:
+    - start: ???
+    - end: ???
+    - start: ???
+    - end: ???
+
+- output: day3-git-collab.mp4
+  time:
+    - start: ???
+    - end: ???
+    - start: ???
+    - end: ???
+
+```
 
 ## Day 4
 
+TODO: reproducible research
+
+```yaml
 - input: cr-2021may-day4-obs.mkv
 
 - output: day4-intro.mp4
@@ -126,6 +161,13 @@ Help us edit videos!
 - output: day4-outro.mp4
   time:
     - 3:38:30, 3:39:42
+```
+
+## day 5
+
+All done!
+
+```yaml
 
 - input: cr-2021may-day5-obs.mkv
 
@@ -180,3 +222,5 @@ Help us edit videos!
     - 4:47:13: ReadTheDocs demo
 
 ```
+
+## Day 6
