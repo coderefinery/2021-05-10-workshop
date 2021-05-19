@@ -139,8 +139,8 @@ Help us edit videos!
     - 15:00: Jupyter getting started
 - output: day5-jupyter.mp4
   time:
-    - cover: {begin: 41:29, end: 41:35, w: 840, h: 300, x: 360}
-    - 20:50, 1:00:30*   # episode, Exercise as a demo
+    - cover: {begin: "41:29", end: "41:35", w: 840, h: 300, x: 360}
+    - 20:50, 1:00:30   # episode, Exercise as a demo
     - 1:01:20, 1:18:24         # After exercise
     - 1:32:50, 1:49:50
                           # 1:15:45 Thor in video
@@ -149,11 +149,11 @@ Help us edit videos!
     # 32:50 Sabry appears
     - 37:41: Interface
     # Diana name at 44:30
-    - 42:10: Exercise: Darts and the interface
-    - 50:00: Demo: Darts exercise plus explanation
+    - 42:10: "Exercise: Darts and the interface"
+    - 50:00: "Demo: Darts exercise plus explanation"
     - 1:01:20: Post-exercise discussion
     - 1:11:20: Git and notebooks
-    - 1:30:50: Binder and sharing notebooks
+    - 1:32:50: Binder and sharing notebooks
 
 - output: day5-documentation.mp4
   time:
