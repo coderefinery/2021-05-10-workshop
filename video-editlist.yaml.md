@@ -129,33 +129,31 @@ Help us edit videos!
   time:
     - 3:38:30, 3:39:42
 
-- input: ????
+- input: cr-2021may-day5-obs.mkv
 
 - output: day5-intro.mp4
   time:
     - 5:00, 6:10 # talking about icebreaker
     - 8:25, 9:05
-    - 13:15, 14:10     # 
+    - 13:15, 20:50     # 
+    - 15:00: Jupyter getting started
 - output: day5-jupyter.mp4
   time:
-    - cover: {start: 41:40, }
-    - 14:10, 48??
-    - 50:??, 1:00:30*   # Exercise as a demo
-    - 1:01:20, 1:18:25         # After exercise
-    - 1:29:50, 1:50?
+    - cover: {begin: 41:29, end: 41:35, w: 840, h: 300, x: 360}
+    - 20:50, 1:00:30*   # episode, Exercise as a demo
+    - 1:01:20, 1:18:24         # After exercise
+    - 1:32:50, 1:49:50
                           # 1:15:45 Thor in video
-    - ????, 1:55:20
-    - 15:??: Introduction
-    - 20:30*: The Jupyter lesson summary
-    - 2?:??: Motivation, pitfalls, best practices
+    - 1:53:25, 1:55:20
+    - 20:50: Motivation, pitfalls, best practices
     # 32:50 Sabry appears
-    - 39:??: Interface
+    - 37:41: Interface
     # Diana name at 44:30
-    - 43:??: Exercise: Darts and the interface
+    - 42:10: Exercise: Darts and the interface
     - 50:00: Demo: Darts exercise plus explanation
     - 1:01:20: Post-exercise discussion
     - 1:11:20: Git and notebooks
-    - 1:29:50: Binder and sharing notebooks
+    - 1:30:50: Binder and sharing notebooks
 
 - output: day5-documentation.mp4
   time:
@@ -182,7 +180,3 @@ Help us edit videos!
     - 3:40:50: Github Pages summary
     - 3:42:40: Summary, end of day
     - 4:47:13: ReadTheDocs demo
-
-
-```
-
