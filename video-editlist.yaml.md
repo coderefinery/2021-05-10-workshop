@@ -55,8 +55,6 @@ Help us edit videos!
 ```
 
 
-
-
 ## Day 2
 
 ```yaml
@@ -65,13 +63,13 @@ Help us edit videos!
 - input: cr-2021may-day2-
 
 # Git-intro day 2
-- output: day2-git-intro-2.mp4
-  time:
-    - ??:??, ??:??      # Lesson (Sabry)
-    - : Branching and Merging
-    - : Conflict resolution
-    - : Sharing repositories online
-    - : Inspecting history
+#- output: day2-git-intro-2.mp4
+#  time:
+#    - ??:??, ??:??      # Lesson (Sabry)
+#    - : Branching and Merging
+#    - : Conflict resolution
+#    - : Sharing repositories online
+#    - : Inspecting history
 
 
 ## Day 4
@@ -82,32 +80,32 @@ Help us edit videos!
   time:
     - ????: Intro
 
-- output: day4-reproducible-research.mp4
-  time:
-    - ?, 1:05:10   # first session before break, exclude meta
-    - X: "Introduction"
-    - ?: "Motivation"
-    - before 30:00: "Organizing your projects"
-    - 32:??: "Begin an example"
-    - 39:20: "Dependencies"
-    - 51:40: "Type-along: Conda environment"
-    - 1:16:30, 1:35:45?
-    - 1:18:05: "Containers"
-    - 1:23:00: "Recording computational steps"
-    - 1:25:00: "Exercise preparation: Snakemake"
-    
-    - 1:38:40*, ?
-    - 1:38:40*: "Snakemake exercise demo"
+#- output: day4-reproducible-research.mp4
+#  time:
+#    - ?, 1:05:10   # first session before break, exclude meta
+#    - X: "Introduction"
+#    - ?: "Motivation"
+#    - before 30:00: "Organizing your projects"
+#    - 32:??: "Begin an example"
+#    - 39:20: "Dependencies"
+#    - 51:40: "Type-along: Conda environment"
+#    - 1:16:30, 1:35:45?
+#    - 1:18:05: "Containers"
+#    - 1:23:00: "Recording computational steps"
+#    - 1:25:00: "Exercise preparation: Snakemake"
+#
+#    - 1:38:40*, ?
+#    - 1:38:40*: "Snakemake exercise demo"
+#
+#    - 1:55:25, 2:00:40
+#    - 1:55:25: "Sharing research data"
+#
+#    - 2:06:00*, 2:08:08
+#    - 2:06:00*: Instructor discussion
+#
+#    - 2:13:00, 15:16:30*
+#    - 2:13:00: Fair principles
 
-    - 1:55:25, 2:00:40
-    - 1:55:25: "Sharing research data"
-    
-    - 2:06:00*, 2:08:08
-    - 2:06:00*: Instructor discussion
-    
-    - 2:13:00, 15:16:30*
-    - 2:13:00: Fair principles
-    
 - output: day4-social-coding.mp4
   time:
     - 2:26:55, 2:31:15
@@ -119,12 +117,12 @@ Help us edit videos!
     - 3:07:45, 3:12:20
     #- 3:16:14-17??  Learner in video
     - cover: {start: "3:16:14", end: "3:16:17", w: 840, h: 300, x: 360}
-    - 3:14:25, 3:17:20 
+    - 3:14:25, 3:17:20
     - 3:22:05, 3:38:30
     - 3:22:05: Licensing
     - 3:35:30: Practical recommendations
     - 3:37:05: Software citation
-    
+
 - output: day4-outro.mp4
   time:
     - 3:38:30, 3:39:42
@@ -135,7 +133,7 @@ Help us edit videos!
   time:
     - 5:00, 6:10 # talking about icebreaker
     - 8:25, 9:05
-    - 13:15, 20:50     # 
+    - 13:15, 20:50     #
     - 15:00: Jupyter getting started
 - output: day5-jupyter.mp4
   time:
@@ -157,7 +155,7 @@ Help us edit videos!
 
 - output: day5-documentation.mp4
   time:
-    - 1:59:55, 2:26:25 
+    - 1:59:55, 2:26:25
     - 2:27:00, 2:40:05
     - 2:40:55, 2:44:00
     # 2:30:00 Stefan in video
@@ -165,7 +163,7 @@ Help us edit videos!
     - 2:53:50, 3:21:15
     - 3:22:25, 3:45:00
     - 3:47:13, 4:02:54
-    
+
     - 2:00:00: Intro
     - 2:01:00: Motivation
     - 2:14:20: Popular tools
@@ -180,3 +178,5 @@ Help us edit videos!
     - 3:40:50: Github Pages summary
     - 3:42:40: Summary, end of day
     - 4:47:13: ReadTheDocs demo
+
+```
