@@ -122,7 +122,7 @@ The schedule includes frequent breaks.
   (Anne Fouilloux)
 - 12:15 - 12:30
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (Radovan Bast)
+  (Naoe Tatara, Radovan Bast)
 
 
 #### Contact
