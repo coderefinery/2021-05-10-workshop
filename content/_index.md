@@ -107,7 +107,7 @@ The schedule includes frequent breaks.
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 10:45
   [Jupyter](https://coderefinery.github.io/jupyter/)
-  (Radovan Bast)
+  (Radovan Bast and Anne Fouilloux)
 - 10:45 - 12:30
   [Documentation](https://coderefinery.github.io/documentation/)
   (Radovan Bast and Samantha Wittke)
@@ -140,6 +140,7 @@ The schedule includes frequent breaks.
 #### Instructors and expert helpers
 
 - Radovan Bast
+- Max Roald Eckardt
 - Anne Fouilloux
 - Johan Hellsvik
 - Patric Holmvall
@@ -149,6 +150,7 @@ The schedule includes frequent breaks.
 - Stefan Negru
 - Jarno Rantaharju
 - Sabry Razick
+- Marijn van Vliet
 - Thor Wikfeldt
 - Samantha Wittke
 
