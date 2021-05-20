@@ -363,7 +363,7 @@ Approvals for youtube:
 
 ```yaml=
 
-- input: cr-2021may-day5-obs.mkv
+- input: cr-2021may-day6-obs.mkv
 
 - output: day6-intro.mp4
   title: Day 6 intro - CodeRefinery May 2021
