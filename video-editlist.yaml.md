@@ -13,6 +13,31 @@ Help us edit videos!
 - If you can record key points for the table of contents, e.g. "45:10: 02 Basics", write it down somehow and we can turn it into a table of contents.
 - Related Git issue: https://github.com/coderefinery/2021-05-10-workshop/issues/45
 
+## Permission to post
+Add your name here if you give permission for any video including your **name**, **profile picture**, **voice**, or **video** to be posted on YouTube CC-BY:
+* Richard
+* Sabry
+* Naoe Tatara
+* Patric Holmvall
+* Thor Wikfeldt
+* Johan Hellsvik
+* Juho Lehtonen
+* Samantha Wittke
+* Stefan Negru
+* Max Roald Eckardt
+
+## General footer for all video descriptions
+
+This will be added to the bottom of every video description:
+
+:::
+This is part of the CodeRefinery May 2021 workshop.  The videos are avaliable to everyone, but may be most useful to the people who attended the workshop.
+Playlist: https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ
+Workshop webpage: https://coderefinery.github.io/2021-05-10-workshop/
+
+CodeRefinery: https://coderefinery.org/
+:::
+
 ## Day 1
 
 ```yaml
@@ -22,6 +47,9 @@ Help us edit videos!
 
 # welcome
 - output: day1-welcome.mp4
+  title: Intro - CodeRefinery May 2021
+  description: >
+    The introduction to this workshop, explaining general mechanicse
   time:
     - 12:20, 31:14
 
@@ -134,12 +162,12 @@ All done
     #End 3:51:12
     
     #intro : 21:39 Diana
-    #intro : 23:45 Juho
-    #Concepts arround cooloboraiton 28:58 Juho
-    # Centralized workflow : 41:41 Sabry
-    #excersise intro :01:27:48 sabry
-    #Excersise for Twitch 1:33:25 Sabry
-    #Coolaborative distribute VC : 02:15:09 (Juho)
+    23:45: intro  #Juho
+    28:58: Concepts arround cooloboraiton #Juho
+    41:41: Centralized workflow   #Sabry
+    01:27:48: excersise intro  #sabry
+    1:33:25: Excersise for Twitch  #Sabry
+    02:15:09 :Coolaborative distribute VC   #(Juho)
 
 ```
 
@@ -206,12 +234,12 @@ TODO: reproducible research
     - 3:38:30, 3:39:42
 ```
 
-## day 5
+## Day 5
 
 All done!
 
 * Intro
-  * Prester approved: no
+  * Presenter approved: no
 * Jupyter
   * Presenter approved: pending
 * Documentation
@@ -274,3 +302,83 @@ All done!
 ```
 
 ## Day 6
+
+Approvals for youtube:
+* Intro
+* Testing
+  * Thor, Diana, Iusan
+* Modular
+  * Max, Radovan, Anne
+
+```yaml=
+
+- input: cr-2021may-day5-obs.mkv
+
+- output: day6-intro.mp4
+  time:
+    - start: 15:50
+    - 
+    - end: 19:10
+
+- output: day6-testing.mp4
+  title: Software Testing - CodeRefinery May 2021
+  description: >
+    Software testing is a fundamental part of modern software development, and especially important for science since results should be correct.  Luckily, it's not so hard to get started, and anyone can do it.
+    
+    Tools covered include unit testing, pytest, continuous integration, 
+    
+    https://coderefinery.github.io/testing/
+  
+  time:
+    - start: 19:10
+    - 19:10: Intro
+    - 22:05: Motivation
+    - 32:20: Concepts
+    - 41:??: Q&A
+    - 45:00: "Exercise: testing locally"
+    - cover: {begin: "46:00", end: "46:10", w: 840, h: 300, x: 360}
+    - end: 47:40 #???
+    - start: 48:25
+    - 48:25: Exercise as a demo
+    - end: 54:00 # ???
+    #- start: 1:03:00  # ???, Small discussion but said again once people are back
+    #- end: 
+    - start: 1:06:50
+    - 1:06:50: Q&A
+    - 1:08:10: Automated testing with CI
+    #- 1:11:25: CI step 1-2
+    #- 1:29:50: Step 7: Fix the broken test
+    #- 1:34:00 Step 8: Open a pull request
+    - 1:36:40: Q&A, summary of automated testing
+    - 1:37:55: Test design, exercise prepration
+    - end: 1:43:00
+    - start: 2:16:45
+    
+    
+- output: day6-modular-code-development.mp4
+  title: Modular Code Development - CodeRefinery May 2021
+  description: >
+    ...
+  time:
+    - start: 2:17:50
+    - 2:17:50: Intro and questions to the audience
+    # Max at 2:26:30
+    - 2:36:15: "Modular type-along"
+    #- ???: Starting with Jupyter 
+    - 2:44:00: Functions
+    - end: 3:04:40
+    - start: 3:10:50
+    - 3:10:50: Some questions
+    - 3:14:10: Moving out of the notebook 
+    - 3:46:35: Command line interface # ????
+    - 3:32:20: Wrap-up
+    - end: 3:33:30  # ???
+    
+- utput: day6-outro 
+  title: Workshoup outro - CodeRefinery May 2021
+  description: The concluding remarks of the workshop
+  time:
+    - start: 3:35:10
+    - end: 3:47:17
+
+```
