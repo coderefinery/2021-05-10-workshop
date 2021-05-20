@@ -133,6 +133,7 @@ https://coderefinery.github.io/testing/pytest/
 
 - We discussed a bit the approx funciton. What is exactly its output? We are now realying on an external funciton for our test but we don't understand exactly what the function does.
   - OK. Let's maybe first think how we would do this if we didn't have the approx function: then you could check `assert abs(result - expected_result) < 1.0e-14` (adjusting the tolerance). Also the approx function from pytest has an in-built tolerance which can be changed.
+  - It can also be nice to have a look at the actual implementation: <https://github.com/pytest-dev/pytest/blob/main/src/_pytest/python_api.py#L512>
 
 - the HTML code below has messed up code highlighting, anyone have a solution? fixed with `:::`
     - Fix by adding 'julia' after \\```"
