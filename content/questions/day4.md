@@ -711,7 +711,7 @@ https://coderefinery.github.io/social-coding/licensing/
 - Derivative works and dependencies - if I have numpy in my requirements.txt, am I creating a derivative work?
     - Answered in the lesson (same as 7).
     - If those dependencies are under GPL or AGPL, is it a derivative work then? I suppose yes(?)
-
+       - no, it the dependency is still considered library/plugin
 
 - the rewriting of a code in a different language is probably close-to-impossible to prove...
   - Like many things, it's not an issue until it is... see some recent court cases, luckily our stuff is probably never so important this is a risk.
