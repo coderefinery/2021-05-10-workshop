@@ -162,12 +162,12 @@ All done
     #End 3:51:12
     
     #intro : 21:39 Diana
-    23:45: intro  #Juho
-    28:58: Concepts arround cooloboraiton #Juho
-    41:41: Centralized workflow   #Sabry
-    01:27:48: excersise intro  #sabry
-    1:33:25: Excersise for Twitch  #Sabry
-    02:15:09 :Coolaborative distribute VC   #(Juho)
+    - 23:45: intro  #Juho
+    - 28:58: Concepts arround cooloboraiton #Juho
+    - 41:41: Centralized workflow   #Sabry
+    - 01:27:48: excersise intro  #sabry
+    - 1:33:25: Excersise for Twitch  #Sabry
+    - 02:15:09 :Coolaborative distribute VC   #(Juho)
 
 ```
 
@@ -353,8 +353,8 @@ Approvals for youtube:
     - 1:37:55: Test design, exercise prepration
     - end: 1:43:00
     - start: 2:16:45
-    
-    
+
+
 - output: day6-modular-code-development.mp4
   title: Modular Code Development - CodeRefinery May 2021
   description: >
@@ -364,17 +364,17 @@ Approvals for youtube:
     - 2:17:50: Intro and questions to the audience
     # Max at 2:26:30
     - 2:36:15: "Modular type-along"
-    #- ???: Starting with Jupyter 
+    #- ???: Starting with Jupyter
     - 2:44:00: Functions
     - end: 3:04:40
     - start: 3:10:50
     - 3:10:50: Some questions
-    - 3:14:10: Moving out of the notebook 
+    - 3:14:10: Moving out of the notebook
     - 3:46:35: Command line interface # ????
     - 3:32:20: Wrap-up
     - end: 3:33:30  # ???
-    
-- utput: day6-outro 
+
+- output: day6-outro.mp4
   title: Workshoup outro - CodeRefinery May 2021
   description: The concluding remarks of the workshop
   time:
