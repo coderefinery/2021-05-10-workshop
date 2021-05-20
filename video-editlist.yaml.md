@@ -25,18 +25,20 @@ Add your name here if you give permission for any video including your **name**,
 * Samantha Wittke
 * Stefan Negru
 * Max Roald Eckardt
+* Radovan
+* Anne Fouilloux
 
 ## General footer for all video descriptions
 
 This will be added to the bottom of every video description:
 
-:::
-This is part of the CodeRefinery May 2021 workshop.  The videos are avaliable to everyone, but may be most useful to the people who attended the workshop.
-Playlist: https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ
-Workshop webpage: https://coderefinery.github.io/2021-05-10-workshop/
-
-CodeRefinery: https://coderefinery.org/
-:::
+```yaml
+- workshop_description: >
+    This is part of the CodeRefinery May 2021 workshop.  The videos are avaliable to everyone, but may be most useful to the people who attended the workshop and want to review later.
+    Playlist: https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ
+    Workshop webpage: https://coderefinery.github.io/2021-05-10-workshop/
+    CodeRefinery: https://coderefinery.org/
+```
 
 ## Day 1
 
@@ -49,12 +51,15 @@ CodeRefinery: https://coderefinery.org/
 - output: day1-welcome.mp4
   title: Intro - CodeRefinery May 2021
   description: >
-    The introduction to this workshop, explaining general mechanicse
+    The introduction to this workshop, explaining general mechanics and what CodeRefinery is.
   time:
     - 12:20, 31:14
 
 # Git-intro day 1
 - output: day1-git-intro-1.mp4
+  title: Git Intro day 1 - CodeRefinery May 2021
+  description: >
+    ...
   time:
     - 31:14, 38:13      # Lesson (Sabry)
     # cut to remove YouTube video
@@ -93,6 +98,9 @@ TODO: all, note the new format
 - input: cr-2021may-day2-twitch.mp4
 
 - output: day2-intro.mp4
+  title: Day 2 introduction - CodeRefinery May 2021
+  description: >
+    The quick introduction to Day 2.
   time:
     - start: 11:30
     - end: 24:40
@@ -116,7 +124,11 @@ All done
 ```yaml
 
 - input: cr-2021may-day3-git-collab-twitch.mp4
+
 - output: day3-intro.mp4
+  title: Day 3 intro - CodeRefinery May 2021
+  description: >
+    The quick introduction to day 3.
   time:
     #Remove part before the start
     # soft start
@@ -127,6 +139,9 @@ All done
     - end: 23:44
 
 - output: day3-git-collab.mp4
+  title: Git collaborative - CodeRefinery May 2021
+  description: >
+      Today, we expand from using git by yourself to using it in a team.  We use Github, centralized workflows, pull requests, and more.
   time:
         #intro, Centralized workflow (Sabry)
     - start: 23:45
@@ -183,36 +198,52 @@ TODO: reproducible research
 - input: cr-2021may-day4-obs.mkv
 
 - output: day4-intro.mp4
+  title: Second week introduction - CodeRefinery May 2021
+  description: >
+    The introduction to the second week, where we go into slightly more detail about what we will cover this week and how it fits together.
   time:
     - ????: Intro
 
 #- output: day4-reproducible-research.mp4
 #  time:
-#    - ?, 1:05:10   # first session before break, exclude meta
+#    - start: ?   # first session before break, exclude meta
+#    - end: 1:05:10
 #    - X: "Introduction"
 #    - ?: "Motivation"
 #    - before 30:00: "Organizing your projects"
 #    - 32:??: "Begin an example"
 #    - 39:20: "Dependencies"
 #    - 51:40: "Type-along: Conda environment"
-#    - 1:16:30, 1:35:45?
+#    - start: 1:16:30
 #    - 1:18:05: "Containers"
 #    - 1:23:00: "Recording computational steps"
 #    - 1:25:00: "Exercise preparation: Snakemake"
+#    - end: 1:35:45?
 #
-#    - 1:38:40*, ?
+#    - start: 1:38:40*
 #    - 1:38:40*: "Snakemake exercise demo"
+#    - end: ???
 #
-#    - 1:55:25, 2:00:40
+#    - start: 1:55:25
 #    - 1:55:25: "Sharing research data"
+#    - end:   2:00:40
 #
-#    - 2:06:00*, 2:08:08
+#    - start: 2:06:00*
 #    - 2:06:00*: Instructor discussion
+#    - end:   2:08:08
 #
-#    - 2:13:00, 15:16:30*
+#    - start: 2:13:00
 #    - 2:13:00: Fair principles
+#    - end: 15:16:30*
 
 - output: day4-social-coding.mp4
+  title: Social coding - CodeRefinery May 2021
+  description: >
+    We don't just program for ourselves: we are part of a community.  As scientists, we want to get citations, so how can our software support this?  Our work is a constant balance between using the work of others and hoping that others will use our work.  In this lesson, we talk about the advantages and disadvantages of others building on our work, and how to support that.
+    
+    We cover best practices for software/data projects, requirements for sharing, copyright, licensing, citation, and more.
+    
+    https://coderefinery.github.io/social-coding/
   time:
     - 2:26:55, 2:31:15
     - 2:26:55: Intro
@@ -230,6 +261,9 @@ TODO: reproducible research
     - 3:37:05: Software citation
 
 - output: day4-outro.mp4
+  title: Day 4 final remarks - CodeRefinery May 2021
+  description: >
+    ...
   time:
     - 3:38:30, 3:39:42
 ```
@@ -250,12 +284,22 @@ All done!
 - input: cr-2021may-day5-obs.mkv
 
 - output: day5-intro.mp4
+  title: Day 5 introduction - CodeRefinery May 2021
+  description: >
+    The quick introduction to Day 5.
   time:
     - 5:00, 6:10 # talking about icebreaker
     - 8:25, 9:05
     - 13:15, 20:50     #
     - 15:00: Jupyter getting started
 - output: day5-jupyter.mp4
+  title: Jupyter - CodeRefinery May 2021
+  description: >
+    The goal of this lesson is to teach learners the user interface of JupyterLab, how Jupyter notebooks work, and what some common and powerful usecases are. Our focus is to demonstrate and discuss and guide towards good practices for reproducibility, collaboration, and reusability. The emphasis of this lesson is to demonstrate how to use notebooks in combination with version control and how to share reproducible notebooks via Binder.
+   
+    This lesson demonstrates the use of JupyterLab, nbdime, jupyterlab-git, and Binder.
+
+    https://coderefinery.github.io/jupyter/
   time:
     - cover: {begin: "41:29", end: "41:35", w: 840, h: 300, x: 360}
     - 20:50, 1:00:30   # episode, Exercise as a demo
@@ -274,6 +318,13 @@ All done!
     - 1:32:50: Binder and sharing notebooks
 
 - output: day5-documentation.mp4
+  title: Documentation - CodeRefinery May 2021
+  description: >
+    In this lesson we discuss different solutions for implementing and deploying code documentation. We start by creating a wishlist for how we would code documentation like to be. Then after a tour of available tools, we discuss how to write useful and accessible READMEs, and then we progress by demonstrating and practicing the Sphinx documentation generator and demonstrate how to deploy documentation to Read the Docs service.
+    
+    Topics and tools discussed: Markdown, reStructured text, README documentation, table of contents generation, Sphinx, Read the Docs, GitHub/GitLab pages.
+
+    https://coderefinery.github.io/documentation/
   time:
     - 1:59:55, 2:26:25
     - 2:27:00, 2:40:05
@@ -315,6 +366,9 @@ Approvals for youtube:
 - input: cr-2021may-day5-obs.mkv
 
 - output: day6-intro.mp4
+  title: Day 6 intro - CodeRefinery May 2021
+  description: >
+    The quick introduction to Day 6.
   time:
     - start: 15:50
     - 
@@ -323,9 +377,9 @@ Approvals for youtube:
 - output: day6-testing.mp4
   title: Software Testing - CodeRefinery May 2021
   description: >
-    Software testing is a fundamental part of modern software development, and especially important for science since results should be correct.  Luckily, it's not so hard to get started, and anyone can do it.
+    Software testing is a fundamental part of modern software development, and especially important for science since results should be correct.  Luckily, it's not so hard to get started, and anyone can do it. This is a crash course for scientists to get started testing their software.
     
-    Tools covered include unit testing, pytest, continuous integration, 
+    Tools covered include concepts of testing for science, unit testing, pytest, continuous integration, GitHub actions .  We make demos in Python, but have examples in other languages and this will apply to every language in some form.
     
     https://coderefinery.github.io/testing/
   
@@ -358,7 +412,11 @@ Approvals for youtube:
 - output: day6-modular-code-development.mp4
   title: Modular Code Development - CodeRefinery May 2021
   description: >
-    ...
+    In this live-coding demo session we take a Python script as starting point which reads data, computes simple statistics, and generates a plot. Together we then improve this code based on suggestions from the audience to arrive at a more reusable code with reusable components. We start in the Jupyter notebook, later move to a Python script/module, introduce testing, and finally introduce and motivate a command line interface to our code.
+
+    In this demonstration we use JupyterLab, Python, Pandas, Matplotlib, pytest, and Click.
+
+    https://coderefinery.github.io/modular-type-along/
   time:
     - start: 2:17:50
     - 2:17:50: Intro and questions to the audience
@@ -370,13 +428,14 @@ Approvals for youtube:
     - start: 3:10:50
     - 3:10:50: Some questions
     - 3:14:10: Moving out of the notebook
-    - 3:24:05: Command line interface # ????
+    - 3:24:05: Adding a command line interface
     - 3:32:20: Wrap-up
     - end: 3:33:30  # ???
 
 - output: day6-outro.mp4
   title: Workshoup outro - CodeRefinery May 2021
-  description: The concluding remarks of the workshop
+  description: >
+      The concluding remarks of the workshop
   time:
     - start: 3:35:10
     - end: 3:47:17
