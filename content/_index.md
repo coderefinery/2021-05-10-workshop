@@ -5,22 +5,23 @@ title = "Schedule"
 <div class="alert alert-info">
 <span style="color:darkred;font-weight:bold">News:</span>
 
-* Livestream: <https://twitch.tv/coderefinery/>.
+* We would like to sincerely think everyone for attending, and
+  especially all of the exercise leaders for making this workshop
+  possible.  Please tell others about us and come help us do this more
+  in the future.
+
+* [Final remarks](https://github.com/coderefinery/workshop-outro/)
 
 * [Videos can be found for 14 days on Twitch](https://www.twitch.tv/coderefinery/videos).
+* [YouTube playlist of workshop
+  videos](https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ) -
+  videos will be added here as they are processed.
 
-* The workshop has started, but you can register to get emails about the
-  livestream attendance, including daily updates and asking
-  questions.
+* Livestream: <https://twitch.tv/coderefinery/>.
 
 * Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
 [to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
 and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)
-
-* Now is also a good time to read [how to join](join/),
-  [requirements](requirements/), and
-  [installation](https://coderefinery.github.io/installation/) if you
-  haven't done it yet
 
 </div>
 
