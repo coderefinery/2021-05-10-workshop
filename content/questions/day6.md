@@ -136,7 +136,7 @@ https://coderefinery.github.io/testing/pytest/
 
 - the HTML code below has messed up code highlighting, anyone have a solution? fixed with `:::`
     - Fix by adding 'julia' after \\```"
-:::spoiler Julia implementation of `isapprox`
+- Julia implementation of `isapprox`:
 ```julia
 function isapprox(x::Number, y::Number;
                   atol::Real=0, rtol::Real=rtoldefault(x,y,atol),
@@ -144,9 +144,6 @@ function isapprox(x::Number, y::Number;
     x == y || (isfinite(x) && isfinite(y) && norm(x-y) <= max(atol, rtol*max(norm(x), norm(y)))) || (nans && isnan(x) && isnan(y))
 end
 ```
-:::
-
-
 
 
 ## Automated testing 
