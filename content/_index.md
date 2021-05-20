@@ -23,6 +23,8 @@ title = "Schedule"
 [to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
 and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)
 
+* [Archived Q&As](https://coderefinery.github.io/2021-05-10-workshop/questions/)
+
 </div>
 
 ## Course goals
