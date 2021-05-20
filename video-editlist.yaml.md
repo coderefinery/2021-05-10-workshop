@@ -370,7 +370,7 @@ Approvals for youtube:
     - start: 3:10:50
     - 3:10:50: Some questions
     - 3:14:10: Moving out of the notebook
-    - 3:46:35: Command line interface # ????
+    - 3:24:05: Command line interface # ????
     - 3:32:20: Wrap-up
     - end: 3:33:30  # ???
 
