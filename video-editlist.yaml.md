@@ -63,17 +63,25 @@ This will be added to the bottom of every video description:
 - output: day1-git-intro-1.mp4
   title: Git Intro day 1 - CodeRefinery May 2021
   description: >
-    Here, we go over the basics of git from first principles.
+    Here, we go over the basics of git from first principles, though
+    this is not the most basic course you can find.  We cover basics,
+    motivation, making commits, undoing things, staging.  The part 2
+    video goes into branching and merging, conflict resolution,
+    inspecting history, basics of
+    sharing repositories online, and some practical advice.  However, this does not cover
+    multi-user work or remotes (that is the next lesson, git-collaborative).
 
     There are two external videos which are excluded from this
     recording.  You can find the link to them in the table of contents
     below.
 
+    https://coderefinery.github.io/git-intro/
+
   time:
     - start: 31:14      # Lesson (Sabry)
     - 31:14: Overview of the day
     - 33:25: Motivation to version control
-    - 38:12: \"The Life of a Document\", watch at https://www.youtube.com/watch?v=CvbLVVRzJF8
+    - 38:12: '"The Life of a Document", watch at https://www.youtube.com/watch?v=CvbLVVRzJF8'
     - end: 38:51
     # cut to remove YouTube video
     - start: 40:55    # Lesson (Sabry)
@@ -85,7 +93,7 @@ This will be added to the bottom of every video description:
     # 1:29:29-1:31:23
     # break
     - start: 1:41:40   # Lesson (Sabry and Diana)
-    - 1:46:30: External video, Linux Torvalds on git, https://youtu.be/4XpnKHJAok8?t=2623 (43:43 to 44:26)
+    - 1:46:30: External video, Linux Torvalds on git, https://youtu.be/4XpnKHJAok8?t=2625 (43:45 to 44:26)
     - end: 1:46:48
     - start: 1:47:44
     - end: 2:24:07
