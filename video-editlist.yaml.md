@@ -63,23 +63,37 @@ This will be added to the bottom of every video description:
 - output: day1-git-intro-1.mp4
   title: Git Intro day 1 - CodeRefinery May 2021
   description: >
-    ...
+    Here, we go over the basics of git from first principles.
+
+    There are two external videos which are excluded from this
+    recording.  You can find the link to them in the table of contents
+    below.
+
   time:
-    - 31:14, 38:13      # Lesson (Sabry)
+    - start: 31:14      # Lesson (Sabry)
+    - 31:14: Overview of the day
+    - 33:25: Motivation to version control
+    - 38:12: \"The Life of a Document\", watch at https://www.youtube.com/watch?v=CvbLVVRzJF8
+    - end: 38:51
     # cut to remove YouTube video
-    - start: 41:28    # Lesson (Sabry)
-    # Remove Linus video
+    - start: 40:55    # Lesson (Sabry)
+    - 40:55: Lesson continues
     - end: 1:04:45
+    # 1:06:14-1:09:33, gallery view including some audience
     # going to breakout rooms
     - 1:18:22, 1:28:27  # Exercise for breakout room (Sabry)
+    # 1:29:29-1:31:23
     # break
-    - 1:41:40, 2:24:07  # Lesson (Sabry and Diana)
+    - start: 1:41:40   # Lesson (Sabry and Diana)
+    - 1:46:30: External video, Linux Torvalds on git, https://youtu.be/4XpnKHJAok8?t=2623 (43:43 to 44:26)
+    - end: 1:46:48
+    - start: 1:47:44
+    - end: 2:24:07
     # going to breakout rooms
     - 2:28:44, 2:36:38  # Exercise for breakout room (Diana)
     # break
     - 2:53:20, 3:20:53  # Lesson (Sabry)
-    - 31:14: Overview of the day
-    - 33:25: Motivation to version control
+
     - 41:28: Real-life repository examples
     - 48:35: Basics of version control
     - 1:18:22: "Exercise: record changes"
@@ -117,10 +131,10 @@ TODO: all, note the new format
 #    - start: ??:??      # Lesson (Sabry)
 #    - 1:45: Title of section
 #    - 5:45: Title of Section
-#    - : Branching and Merging
-#    - : Conflict resolution
-#    - : Sharing repositories online
-#    - : Inspecting history
+#    - ??: Branching and Merging
+#    - ??: Conflict resolution
+#    - ??: Sharing repositories online
+#    - ??: Inspecting history
 #    - end: XX:??
 ```
 
