@@ -5,7 +5,7 @@ title = "Schedule"
 <div class="alert alert-info">
 <span style="color:darkred;font-weight:bold">News:</span>
 
-* We would like to sincerely think everyone for attending, and
+* We would like to sincerely thank everyone for attending, and
   especially all of the exercise leaders for making this workshop
   possible.  Please tell others about us and come help us do this more
   in the future.

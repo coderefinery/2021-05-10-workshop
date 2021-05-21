@@ -269,6 +269,9 @@ Questions: https://coderefinery.github.io/modular-type-along/questions/
 
 **Do you build your code top-down or bottom-up? Discuss pros and cons.**
 - What does top-down and  bottom-up means here? :+1: 
+- Top-down and bottom-up are two strategies for approching software development. In the top-down approach, also referred to as stepwise refinement, one starts with the overview of the code, in this case it would be drafting a `main` file which calls different subroutines and functions. One then builds from there and implements these different subroutines or functions, typically in different files. The disadvantage of this approach is that the code is not easily testable and usable until the entire implementation is complete.
+In the bottom-up approach, one puts together different codes or scripts that may be used on their own as well. External libraries can also be viewed as a piece of this software *puzzle*. The advantage of this approach is that it is easily testable at the early stage of the programming process. On the other hand, it may be harder to link these different parts and produce a coherent code.
+
 - Top-down, which is very useful when using JupyterLab, new things can be tested below things which already work. :+1:
 - Not clear what this means in this context :+1:
 - I would describe my approach as top-down, I commonly try to sketch the problem and the approach on paper and think about the major steps before filling them with life/code.
