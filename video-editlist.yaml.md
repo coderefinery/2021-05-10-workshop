@@ -128,15 +128,71 @@ TODO: all, note the new format
 - output: day2-intro.mp4
   title: Day 2 introduction - CodeRefinery May 2021
   description: >
-    The quick introduction to Day 2.
+    The quick introduction to Day 2.  This is mainly icebreaker discussion.
   time:
-    - start: 11:30
+    - start: 11:33
     - end: 24:40
 
 # Git-intro day 2
-#- output: day2-git-intro-2.mp4
-#  time:
-#    - start: ??:??      # Lesson (Sabry)
+- output: day2-git-intro-2.mp4
+  title: Git Intro day 2 - CodeRefinery May 2021
+  description: >
+    Part 2 of the previous video: 
+  
+    Here, we go over the basics of git from first principles, though
+    this is not the most basic course you can find.  Previous video: We covered basics,
+    motivation, making commits, undoing things, staging.  This part 2
+    video goes into branching and merging, conflict resolution,
+    inspecting history, basics of
+    sharing repositories online, and some practical advice.  However, this does not cover
+    multi-user work or remotes (that is the next lesson, git-collaborative).
+
+    https://coderefinery.github.io/git-intro/
+  
+    The other conflict resolution video which was referred to in the video: https://www.youtube.com/watch?v=p03ebpjuRgA&list=PLpLblYHCzJAB6blBBa0O2BEYadVZV3JYf
+  time:
+    - start: 25:16      # Lesson (Sabry)
+    - 25:16: Preparation
+    - end: 29:05
+    - start: 29:26
+    - 29:26: Branching and merging
+    - 35:50: "Demo: branching and merging"
+    - 48:25: "Exercise: branching and merging"
+    - end: 52:21
+    - start: 53:30
+    - 53:10: "Aside: What is the working tree?"
+    - 53:38: "Exercise demo: branching and merging"
+    - end: 1:04:55
+    - start: 1:05:54
+    - --: Q&A
+    - end: 1:06:40
+    - start: 1:08:18
+    - end: 1:26:51
+    - start: 1:38:30
+    - -: Conflict resolution
+    - end: 1:55:11
+    - start: 1:56:13
+    - -: Sharing repositiories online
+    - 2:05:40: "Type-along: sharing repositories on Github"
+    - end: 2:20:32
+    - start: 2:33:04
+    - -: Inspecting history
+    - 2:35:32: "Inspecting history: the Git History browser"
+    - 2:37:00: "Inspecting history: git grep"
+    - 2:39:35: "Inspecting history: git log -S"
+    - 2:41:19: "Inspecting history: git show"
+    - 2:43:33: "Inspecting history: git annotate"
+    - 2:46:59: "Inspecting history: git checkout -b"
+    - 2:52:47: "Exercise: basic archaeology commands"
+    - end: 2:57:45
+    - start: 3:02:18
+    - -: "Exercise as a demo"
+    - end: 3:18:35
+    - start: 3:20:08
+    - -: Q&A about the exercise
+    - 3:23:19: Quick summary of git-bisect
+    - 3:32:18: Practical advice
+    - end: 3:33:35
 #    - 1:45: Title of section
 #    - 5:45: Title of Section
 #    - ??: Branching and Merging
