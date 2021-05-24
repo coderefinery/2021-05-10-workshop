@@ -12,16 +12,14 @@ title = "Schedule"
 
 * [Final remarks](https://github.com/coderefinery/workshop-outro/)
 
-* [Videos can be found for 14 days on Twitch](https://www.twitch.tv/coderefinery/videos).
-* [YouTube playlist of workshop
-  videos](https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ) -
-  videos will be added here as they are processed.
+* [Complete YouTube playlist of workshop
+  videos - by lesson and with episode indexes](https://www.youtube.com/playlist?list=PLpLblYHCzJACm0Nz8ZxmdC6F8UuSYwWGQ).
 
-* Livestream: <https://twitch.tv/coderefinery/>.
+* ~~Livestream: <https://twitch.tv/coderefinery/>.~~
 
-* Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
+* ~~Read past communication [to zoom attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/26),
 [to livestream attendees](https://github.com/coderefinery/2021-05-10-workshop/issues/28),
-and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)
+and [to exercise leaders](https://github.com/coderefinery/2021-05-10-workshop/issues/27)~~
 
 * [Archived Q&As](https://coderefinery.github.io/2021-05-10-workshop/questions/)
 
