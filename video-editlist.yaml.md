@@ -128,7 +128,8 @@ TODO: all, note the new format
 - output: day2-intro.mp4
   title: Day 2 introduction - CodeRefinery May 2021
   description: >
-    The quick introduction to Day 2.  This is mainly icebreaker discussion.
+    The quick introduction to Day 2.  This is mainly icebreaker
+    discussion and practical matters.
   time:
     - start: 11:33
     - end: 24:40
@@ -160,11 +161,11 @@ TODO: all, note the new format
     - 48:25: "Exercise: branching and merging"
     - end: 52:21
     - start: 53:30
-    - 53:10: "Aside: What is the working tree?"
+    - 53:30: "Aside: What is the working tree?"
     - 53:38: "Exercise demo: branching and merging"
     - end: 1:04:55
     - start: 1:05:54
-    - --: Q&A
+    - -: Q&A
     - end: 1:06:40
     - start: 1:08:18
     - end: 1:26:51
