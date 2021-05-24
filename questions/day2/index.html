@@ -1,0 +1,1161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="https://coderefinery.github.io/2021-05-10-workshop/img/favicon.ico">
+
+    
+      <title>CodeRefinery workshop May 10-12 and 18-20 (2021)</title>
+      <meta name="twitter:title" content="CodeRefinery workshop May 10-12 and 18-20 (2021)" />
+    
+
+    
+      <meta name="description" content="" />
+      <meta name="twitter:description" content="" />
+    
+
+    
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png" />
+    
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://coderefinery.github.io/2021-05-10-workshop/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <main role="main">
+      <div class="container">
+
+        <div class="row top-buffer">
+          <div class="col-sm-12">
+            <h1>CodeRefinery workshop May 10-12 and 18-20 (2021)</h1>
+          </div>
+        </div>
+
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/">About&#x2F;Schedule</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/audience/">Audience</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/join/">How to join</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/requirements/">Requirements</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/questions/">Q&amp;A</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.org/about/code-of-conduct/">Code of Conduct</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.github.io/2021-05-10-workshop/volunteer/">Volunteer</a>
+                
+              
+            </ul>
+          </div>
+        </nav>
+
+        <div class="row top-buffer">
+          <div class="col-sm-10">
+            
+  <ul>
+    
+      <li>
+        <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#questions-and-notes-from-workshop-day-2">Questions and notes from workshop day 2</a>
+        
+          <ul>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#icebreaker-question">Icebreaker question</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#questions">Questions</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#git-intro-branches-and-merging">Git intro, branches and merging</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#conflict-resolution">conflict resolution</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#sharing-repositories-online">Sharing repositories online</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#inspecting-history">Inspecting history</a>
+                
+              </li>
+            
+              <li>
+                <a href="https://coderefinery.github.io/2021-05-10-workshop/questions/day2/#feedback">Feedback</a>
+                
+              </li>
+            
+          </ul>
+        
+      </li>
+    
+  </ul>
+
+  
+  
+    <h1 id="questions-and-notes-from-workshop-day-2">Questions and notes from workshop day 2</h1>
+<h2 id="icebreaker-question">Icebreaker question</h2>
+<p>What is your favorite programming/scripting language? Do you know any unusual ones?</p>
+<ul>
+<li>looking forward to Julia workshop.</li>
+<li>Python and R</li>
+<li>matlab...+1</li>
+<li>Favorite: Python; Unusual: x (C-like, extended to handle standard deviations)</li>
+<li>Julia</li>
+<li>Python and matlab</li>
+<li>Python is my most used, Med Associates / MED-PC is my most 'unusual' (for programming hardware in animal behavioral apparatus)</li>
+<li>Python</li>
+<li>Bash</li>
+<li>Python and C ... started with C and working with python since few months now</li>
+<li>C++</li>
+<li>Python +1</li>
+<li>python</li>
+<li>R is my most used and Python is what I most need to learn</li>
+<li>Python, IDL</li>
+<li>Python, C++, CUDA</li>
+<li>Python and JS</li>
+<li>Python, fortran</li>
+<li>Python, C++</li>
+<li>Unusual: FP (radical functional programming without variables and lambdas)</li>
+<li>Python for fast prototypes/development, C++ for fast code +1</li>
+<li>My favorite is C++, but i use python for postprocessing</li>
+<li>Python and Rust, really like the combination of both</li>
+<li>Python, but I would like to explore Julia more.</li>
+<li>Python, but I would also like to learn Julia.</li>
+<li>Julialang!</li>
+<li>I like using R but sometime python seems more logical. Now, I am more interested to learn Julia, Just waiting to see if it does not become another Theano.</li>
+<li>Unusual: LabVIEW
+<ul>
+<li>Not unsual, but I found it really different in comparison to Matlab or Python. </li>
+</ul>
+</li>
+<li>Python!</li>
+<li>JAVA</li>
+<li>Matlab and Python</li>
+<li>Unusual: Scala</li>
+<li>English (with ML- machine learning)</li>
+<li>HTML (just kidding)
+<ul>
+<li>🤣 </li>
+</ul>
+</li>
+<li>Python, C</li>
+<li>SML, Python, C++</li>
+<li>Python, Fortran</li>
+</ul>
+<h2 id="questions">Questions</h2>
+<p>Questions from today moved to https://coderefinery.github.io/2021-05-10-workshop/questions/ but feel free to add questions for tomorrow:</p>
+<ul>
+<li>
+<p>@Sabry: how did you set up that amazing whiteboard + video behind? Could really use it for my own teaching :)</p>
+<ul>
+<li>I want to make video on how to make it but did not have time as the procedure is never finlized (trying with different material). I wll try my best to document this comeback to you. Not sure how to collect info please open an issue here so I would have some sort of list : https://github.com/Sabryr/LightBoard/issues</li>
+</ul>
+</li>
+<li>
+<p>Q: &quot;See you tomorrow (Zoom and HackMD link stays the same!)&quot;... Recommend always sending the zoom/hackmd links rather than leaving people to search old emails!</p>
+<ul>
+<li>A: We sent one mass email to everyone, who need slightly different information.  We optimized by sending just one, but hopefully we can do better in the future</li>
+<li>thanks for feedback. we should send one email to stream participants and one to zoom</li>
+</ul>
+</li>
+<li>
+<p>Just joined via Twitch and missed yesterday. Will the video end up permanently somewhere? I have the impression that you extended the course content since last year. Is this true?</p>
+<ul>
+<li>It's somewhat similar, but continually developed.  Video at twitch.tv/coderefinery for 14 days, and hopefully (if no audiece appeared in the stream) on youtube permanently</li>
+</ul>
+</li>
+<li>
+<p>I can't turn on my video in a breakout room</p>
+<ul>
+<li>We had to turn it off for you in the main room.  Use HackMD and request video on in your room, and a co-host will come.</li>
+</ul>
+</li>
+<li>
+<p>When I watch later the video on Twitch, how could I find the hackmds for each day, please? Via your website?</p>
+<ul>
+<li>https://coderefinery.github.io/2021-05-10-workshop/questions/
+<ul>
+<li>The logic will be date-workshop/questions for all days?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Instructor advice: how do you show your terminal with the command history in a sort of separate window above?</p>
+<ul>
+<li>https://coderefinery.github.io/manuals/instructor-tech-setup/#terminal-history-window</li>
+</ul>
+</li>
+</ul>
+<h2 id="git-intro-branches-and-merging">Git intro, branches and merging</h2>
+<p>https://coderefinery.github.io/git-intro/06-branches/</p>
+<ul>
+<li>
+<p>What does <code>detached head</code> mean? If it is always pointing to the latest commit? </p>
+<ul>
+<li>The easiest way to undestand this is as a tape recorder head. i.e. where will the changes be recorded if the record button is pressed.(There will be more about this soon)</li>
+<li>and in this case the recorder head points to a commit directly and not to a branch; a branch is a label pointing to a commit hash</li>
+</ul>
+</li>
+<li>
+<p>discussion of <code>master</code> versus the move toward <code>main</code> would be good, I think.</p>
+<ul>
+<li>Good point</li>
+<li>In these basic lessons we make the strategic choice to not require almost everyone to upgrade to be able to change default name.  The point will come up later.</li>
+<li>To setup local git to initialise new repos with <code>main</code>, use <code>git config --global init.defaultbranch main</code> (relevant only when starting a new repo locally with <code>git init</code>)</li>
+<li>&quot;Cultural sensitivity: The computer industry's use of the terms master and slave caught everyone's attention in the summer of 2020. Amid the many protests and the growing social unrest, these harmful and antiquated terms were no longer considered appropriate.&quot; (more @ https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)</li>
+</ul>
+</li>
+</ul>
+<p>&quot;Both Conservancy and the Git project are aware that the initial branch name, 'master,' is offensive to some people and we empathize with those hurt by the use of that term,&quot; said the Software Freedom Conservancy.&quot;</p>
+<ul>
+<li>
+<p>My git(2.7.4) don't have switch command. What should I do instead?</p>
+<ul>
+<li><code>git switch</code> requires a newer version of git (which is why we don't primarily recommend it)</li>
+</ul>
+</li>
+<li>
+<p>Do you know which version?</p>
+<ul>
+<li><code>git switch</code> requires version 2.23 at least (introduced on 2019-08-16 apparently)</li>
+</ul>
+</li>
+<li>
+<p>Can I delete the master / main branches?</p>
+<ul>
+<li>If it is safe to delete, Git will let you do that (unless you force it). A safe condition would be that all commits on master already encoperated to a nother branch</li>
+</ul>
+</li>
+<li>
+<p>Can you branch from a branch? How far can you go with branching?</p>
+<ul>
+<li>Yes you can</li>
+<li>If there's a limit for the maximum depth, it's so ridiculously high you aren't likely to encounter it.</li>
+</ul>
+</li>
+<li>
+<p>If I have a public Git repository in GitHub and want to add new features. I can create a branch and modify it (or fork?). I would like to have the new branch private but still backed-up in GitHub or somewhere else if my computer brakes or if I want to work on the code on different computers? Will the branch be public or can you set it private? Other ways to deal with this?  Can one set different remote repository for different branches? How to marge the private branch with the public branch if they are in separate repositories?</p>
+<ul>
+<li>The new branch will have the same visibility as the repository already has. </li>
+<li>If you work yourself, there is no need for forking. Forking is of relevance for instance when you want to contribute to a project that is private.</li>
+<li>You can create a separate private repository (on Github or a local server)
+<ul>
+<li>When you push to the online repository, it happens for one branch at a time</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>What does the tag &quot;HEAD&quot; stand for?</p>
+<ul>
+<li>Basically &quot;what is currently checked out&quot;, you see it points to a branch usually.</li>
+<li>current position, &quot;recorder head&quot;</li>
+</ul>
+</li>
+<li>
+<p>Is there best practice for testing out whether changes on multiple branches actually &quot;work&quot; together? I.e. there may not be lines of code that conflict but the changes may be incompatible with each other. Should you create a new &quot;test&quot; branch and merge the new features together and test the software before incorporating with the master branch?</p>
+</li>
+<li>
+<p>I didn't attend yesterday, how could i understand my group number?</p>
+<ul>
+<li>your question is how to find your group number?</li>
+<li>You should have the group number in the email from us (sent on saturday). If not raise your hand on zoom and someone will help you (as you should not type your name here )</li>
+</ul>
+</li>
+<li>
+<p>I can't turn on video in breakout rooms</p>
+<ul>
+<li>Write your breakout room number here and someone will come turn it on for you:</li>
+</ul>
+</li>
+<li>
+<p>What is the definition of the 'working tree?'</p>
+<ul>
+<li>&quot;The actually currently checkout files you can see with the file browser, which might possibly be edited already&quot;</li>
+</ul>
+</li>
+<li>
+<p>What's the difference between the HEAD and the 'working tree'?</p>
+<ul>
+<li>HEAD is pointing to a commit, so to a &quot;saved&quot; state. working tree can have local changes which could be neither staged nor committed.</li>
+</ul>
+</li>
+<li>
+<p>Is there a way to show the branch that a particular commit was done to? e.g. by using <code>git show &lt;Hashid&gt;</code> or something??</p>
+<ul>
+<li>you mean: find out which branch(es) a commit belongs to?</li>
+<li>If so, try <code>git branch -a --contains &lt;commit&gt;</code></li>
+</ul>
+</li>
+<li>
+<p>How do I get the <code>git graph</code> command?</p>
+<ul>
+<li>It is a custom alias, created via: <code>git config --global alias.graph &quot;log --all --graph --decorate --oneline&quot;</code></li>
+</ul>
+</li>
+<li>
+<p>Why <code>git commit</code> does not work for newly created files and I am forced to use <code>git add</code> first? (the error is throwed was error: pathspec 'README.md' did not match any file(s) known to git)</p>
+<ul>
+<li>git can only commit files it knows about. with <code>git add</code> we add a file or path to git to be tracked from here on.</li>
+</ul>
+</li>
+<li>
+<p>So if added file ones (using <code>git add</code>) I can commit later directly right? </p>
+<ul>
+<li>yes, right. then only <code>git commit</code>, not <code>git commit somepath</code> </li>
+</ul>
+</li>
+<li>
+<p>Note: <code>git switch</code> does not allow to &quot;checkout&quot; commits that are not &quot;an end&quot; of a branch (that is, it works to switch to branches but not to arbitrary commits <em>i.e.</em> DETACHED HEAD)</p>
+<ul>
+<li>interesting! but you can do <code>git switch --create branchname somehash</code>
+<ul>
+<li>tested, nice 👍🏽</li>
+<li>also for <code>git checkout</code> this is the preferred way to look at past commits, we will come back to that later today</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>When staging, would you advise against using 'git add .' as good practice? I noticed we are not using it.</p>
+<ul>
+<li>use <code>git add -u</code> which will stage all unstaged files. safer than <code>git add .</code> since the latter can stage too much (also new files that you may not want to track)
+<ul>
+<li>Thanks! Very useful!!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>yes emphasise one should be in the branch of interest. people might be in different branches. +1</p>
+<ul>
+<li>If the question was about where to stand when issuing merge (if not let me know), ..
+<ul>
+<li>no question but a hint to 
+<ul>
+<li>OK</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>is there any syntax for &quot;merge from branch-A to branch-B&quot; without being inside branch-B?</p>
+<ul>
+<li>i don't think it's possible. A <code>checkout</code> of the target branch (that you're merging into) is always involved. This also makes most sense  because then you can solve possible merge conflicts in the right branch</li>
+<li>From the manual (git help merge), &quot;Incorporates changes from the named commits (since the time their histories diverged from the current branch) <strong>into the current branch</strong>.&quot;, so it is most likely not possible, but as pointed out above, probably not advisable either, in case conflicts arise...</li>
+</ul>
+</li>
+<li>
+<p>In BO there was a question about the options of <code>git graph</code> alias, in particular about the effect of the &quot;<code>--graph --decorate</code>&quot; options. Could you please comment on them ?</p>
+<ul>
+<li><code>--graph</code> adds the ASCII art at left, that shows the parent commits and merge history</li>
+<li><code>--decorate</code> adds the labels for all branch names, HEAD, tags, etc.</li>
+</ul>
+</li>
+<li>
+<p>are there norms for commit messages when it comes to merges? we talked yesterday about commit messages in general but I'm wondering about merges specifically.</p>
+<ul>
+<li>a merge commit comes with a default commit message. I think it's good to keep that message because it's unambiguous, but there might be other opinions</li>
+</ul>
+</li>
+<li>
+<p>while merging experiment into master, I was not given the option of altering the commit message. Is it normal?</p>
+<ul>
+<li>depends on settings. nothing to worry about and can be changed.</li>
+<li>If you just want to edit the commit message (rather than the merge message) before mergeing, use <code>git commit --amend</code>
+Merge made by the 'recursive' strategy did not give option to write commit message
+<ul>
+<li>was it a fast merge? in that case there is not a new commit so not commit message needed either</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>(regarding the question above) how to change the settings for allowing me writing a message for the merging then, please?</p>
+<ul>
+<li>I see that stackoverflow recomendation is to set a env variable 
+<ul>
+<li>export GIT_MERGE_AUTOEDIT=yes</li>
+</ul>
+</li>
+<li>I also see this option 
+<ul>
+<li>git config --global core.mergeoptions --no-edit</li>
+<li>https://git-scm.com/docs/merge-options</li>
+<li>But I did not work as expected on my Ubuntu setup, only the above export worked. Please indicate your experience here </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>I do not get the option to write a messag when merging as Diana has. How can I have this option as well?</p>
+<ul>
+<li>see above</li>
+</ul>
+</li>
+<li>
+<p>If you got stuck: See https://coderefinery.github.io/git-intro/06-branches/#merging-branches to get a repo with all you need to follow along.</p>
+</li>
+<li>
+<p>Why this error has occured?</p>
+<pre style="background-color:#f5f5f5;">
+<code><span style="color:#1f1f1f;">Auto-merging ingredients.txt
+</span><span style="color:#1f1f1f;">CONFLICT (content): Merge conflict in ingredients.txt
+</span><span style="color:#1f1f1f;">Automatic merge failed; fix conflicts and then commit the result.
+</span></code></pre>
+<ul>
+<li>You made changes to ingredients.txt on both branches. This is ok and it can be merged manually (we'll get there soon)
+<ul>
+<li>I also made changes to ingredients.txt on both branches (as instructed) and didn't get any such error message. I presume this is due to different kinds of changes resolving easier than others.
+<ul>
+<li>Yes, git compares files line by line. In case you made changes in two different lines within the same file, you should avoid the confilct, otherwise not.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>I suppose we can delete several branches at once ?</p>
+<ul>
+<li>yes, <code>git branch -d branch1 branch2 branch3</code></li>
+</ul>
+</li>
+<li>
+<p>I forgot, how do we go back to a previous commit (restore)?</p>
+<ul>
+<li>git checkout commit_checksum is a possibility; you can use git log to find the checksum of the commit you are interested in; you don't need to copy the whole checksum, the few first characters are enough for git to identify it</li>
+<li>To move the current branch back one commit: <code>git reset HEAD~1</code></li>
+<li>To also reset the working directory: <code>git reset --hard HEAD~1</code> </li>
+</ul>
+</li>
+<li>
+<p>Sorry if this is a duplicate question, but would it be possible to get the Terminal History for each day respectively in the Google doc? Thanks!</p>
+<ul>
+<li>all of the used commands can be found in the lesson material https://coderefinery.github.io/git-intro/
+<ul>
+<li>great.</li>
+</ul>
+</li>
+<li>not all instructors use the logging into Googledoc
+<ul>
+<li>I see, yes I understand, thanks!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>&quot;$ git branch --merged&quot; What did this actually do/show? How do I interpret the output differently from &quot;git branch&quot;?</p>
+<ul>
+<li>this shows only the branches that have been merged into the current branch</li>
+</ul>
+</li>
+<li>
+<p>Is it good and common practice to delete branches after merging them into the Master?</p>
+<ul>
+<li>I would say this depends on your personal preference. I personally delete them and try to keep only the branches that are needed.
+<ul>
+<li>And I can always go back to the commits made in those (now deleted) branches and recover files (content of the files...) and changes, right?
+<ul>
+<li>Yes!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>A short answer: yes 😊 (otherwise you may end up in a mess where it's hard to find the &quot;active&quot; branches quickly)</li>
+</ul>
+</li>
+<li>
+<p>Is there a way not to type <code>git</code> at the beginning of each command this much?</p>
+<ul>
+<li>One way of doing it is to add aliases. E.g. <code>alias gl='git log'</code> </li>
+</ul>
+</li>
+<li>
+<p>Advanced trouble-solving question: Similarly to https://coderefinery.github.io/git-intro/06-branches/#optional-exercise-moving-commits-to-another-branch, but commits related to featureB erroneously created in the branch for featureA which has unmerged commits for featureA first, followed by commits for featureB. FeatureB needs to be merged, without featureA. Is it possible to cherry-pick? I tried but haven't figured it out myself how to carry on (it wanted some merging). Unfortunately, this is a recurring mistake among less experienced or busy contributors. 😢</p>
+<ul>
+<li>There is a way to cherry-pick, using the git-command <code>git rebase</code>. I usually use interactive rebase, <code>git rebase -i</code>. This will give you some instructions. First create a new featureB branch, then use rebase to 'drop' featureA commits.
+<ul>
+<li>🙏🏽 1000000 thanks, will try</li>
+<li>Always rebase in a new branch, keep the old one as a backup.</li>
+</ul>
+</li>
+<li>A simpler option (that does not do what you asked) is to checkout the last commit with featureA changes and create a new branch there. The original featureA branch is now featureB, but after featureA is merged.
+<ul>
+<li>Yes, this is a great simple resolution, in case FeatureA is &quot;mergeable&quot;.
+<ul>
+<li>You can still work on FeatureA and merge it later to the featureA+B branch (can be from &quot;main&quot;)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Will we talk about squashing or fast-forwarding (or other options) commits on merging?</p>
+<ul>
+<li>we may not have time to talk about rebase and squashing but we have some exercises and explanations here: https://coderefinery.github.io/git-branch-design/</li>
+<li>we may mention squashing tomorrow on github</li>
+<li><a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/06-branches/#exercise-encounter-a-fast-forward-merge">fast-forward merge</a></li>
+<li><a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/06-branches/#optional-exercise-squashing-commits">squashing</a></li>
+<li><a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/06-branches/#optional-exercise-rebasing">rebasing</a></li>
+</ul>
+</li>
+<li>
+<p>Can we discuss a bit more about the question above on branches on git vs github?</p>
+<ul>
+<li>yes, we will also spend all morning tomorrow on this
+<ul>
+<li>nice :)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Can we use <code>$ git merge -m &quot;message goes here&quot;</code> to  manually add in a message to the merge?</p>
+<ul>
+<li>sure, it's really handy for short messages</li>
+<li>similarly <code>git commit -m &quot;awesome commit message here&quot;</code> is great when the message is short</li>
+<li>seems to be possible, the help page (<code>git help merge</code>) shows:<pre style="background-color:#f5f5f5;">
+<code><span style="color:#1f1f1f;">-m &lt;msg&gt;
+</span><span style="color:#1f1f1f;">   Set the commit message to be used for the merge commit (in case one is created)
+</span></code></pre></li>
+</ul>
+</li>
+</ul>
+<h2 id="conflict-resolution">conflict resolution</h2>
+<p>https://coderefinery.github.io/git-intro/08-conflicts/</p>
+<ul>
+<li>
+<p>I can't read the lower lines of the terminal screen of the presenter, Diana. So I can't follow what she types. Can this be adjusted?</p>
+<ul>
+<li>Good point, the Zoom interface is in the way when not in full-screen.</li>
+<li>is this something the speaker needs to change?
+<ul>
+<li>that would be useful, as many are not using full-screen (to enable a separate window next to it)</li>
+</ul>
+</li>
+<li>follow up: If you know how to get rid of that bar without being in fullscreen, that would be great too... I realise  this isn't a zoom workshop but we had this problem in zoom elsewhere.
+<ul>
+<li>for what it's worth: i don't have full screen but in view option I use &quot;standard&quot; and I resize my window to be &quot;portrait&quot;, taking half of my screen
+<ul>
+<li>Thanks, will try it out next meeting!</li>
+</ul>
+</li>
+<li>another option is &quot;dual monitor&quot; setup (does not require two monitors, I have one; it's in Zoom's video settings)</li>
+<li>another option could be to press ALT/option key on keyboard which might hide the bottom bar allowing to see lower part of the screen </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>(sorry for auto-promotion) we have a 1 hour Research Software Hour video dedicated to git conflict resolution: https://researchsoftwarehour.github.io/ - it shows also all we do here and more :+1:</p>
+</li>
+<li>
+<p>Is there a good way for auto-completion? Not only for the file names but for e.g. branch names</p>
+<ul>
+<li>Start typing the name and press tab. You are welcome.</li>
+<li>but not all shells may &quot;understand&quot; this by default.
+<ul>
+<li>Yes, windows cmd prompt does not understand this sadly
+<ul>
+<li>https://www.maketecheasier.com/enable-auto-complete-feature-command-prompt-windows/</li>
+</ul>
+</li>
+<li>If you use the git bash terminal (on windows), autocompletition works also for branches (learnt today) :+1:
+<ul>
+<li>but it can be enabled, anybody has a good reference for how?</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Conflicts mean that you can do multiple things at once.  This is a good thing.</p>
+<ul>
+<li>Yes. One should not be afraid of conflicts.</li>
+</ul>
+</li>
+<li>
+<p>Why did it not create a conflict for the first merge? Was it not also a change on the same line of text?</p>
+<ul>
+<li>The first merge was between commits <code>4b3e3cc Merge branch 'less-salt'</code> (the master branch at the point, no change to cilantro content) and <code>55d1ce2 please more cilantro</code> (the like-cilantro branch, no change to anything but the cilantro content) so there was no conflict at that point</li>
+<li>It is because Git knows the latest commit in the master branch was the same as the earlier commit of the like-cilantro branch, and treats the merge as a new commit of the same branch</li>
+<li>if one commit is &quot;ancestor&quot; (parent, grandparent, ...) of the other commit, then there is no conflict since git assumes that there is a clear evolution and the child commit contains the other as history (hope this explanation made some sense)</li>
+</ul>
+</li>
+</ul>
+<h2 id="sharing-repositories-online">Sharing repositories online</h2>
+<p>https://coderefinery.github.io/git-intro/09-remotes/</p>
+<ul>
+<li>
+<p>What was the split screen command?</p>
+<ul>
+<li>I think maybe the instructor is using tmux to split screen, see also: https://coderefinery.github.io/manuals/instructor-tech-setup/#terminal-history-window</li>
+</ul>
+</li>
+<li>
+<p>What are the main differences between Github and Gitlab ? what are the advantages / drawbacks of each?</p>
+<ul>
+<li>main difference is that you can host the community edition (which is open source) of gitlab yourself on your own servers, in-house</li>
+<li>otherwise very similar in functionality</li>
+</ul>
+</li>
+<li>
+<p>It might be useful to have a word of caution about having git and dropbox tracking the same directories. (I am asking it in this section because dropbox is a commonly used online syncing/collaboration platform.)</p>
+<ul>
+<li>What would happen in that case?
+<ul>
+<li>Git creates a lot of small files and Dropbox is slow when tracking large numbers of files</li>
+<li>Also Dropbox will track the working directory, not just commits. So if two people work on the same project, they will create Dropbox-conflicts when editing the files.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>open-core vs closed-source... what is the difference?</p>
+<ul>
+<li>open core: this means not all code is open source but part of it is open (the gitlab community edition part) and part of it is closed (proprietary features that can be bought)</li>
+<li>closed source: everything is closed </li>
+</ul>
+</li>
+<li>
+<p>Is there a plan to take a look into the actions part?</p>
+<ul>
+<li>yes, next week we will have a 2 hour session on that (testing lesson)</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>in case you have not set up the ssh keys yet, see the instructions here: https://coderefinery.github.io/installation/ssh/</p>
+</blockquote>
+<ul>
+<li>
+<p>If I'm not wrong, there should be no issue tracking remote branch 'main' using local branch 'master'. Name is only changed for ease of use.</p>
+<ul>
+<li>yes this is possible but we avoided this to minimize confusion. the local and remote branches do not have to have the same names.</li>
+</ul>
+</li>
+<li>
+<p>Error: git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.</p>
+<ul>
+<li>The ssh key is not set up. Try https://coderefinery.github.io/installation/ssh/.</li>
+<li>You can also try the https-version (&quot;https://github.com/...&quot;). But you should set up the keys for tomorrow.</li>
+</ul>
+</li>
+<li>
+<p>(Similar to above): &quot;The authenticity of host 'github.com (140.82.121.3)' can't be established. RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.&quot;</p>
+<ul>
+<li>Does it ask you to add the fingerprint? If so, type &quot;yes&quot;.
+<ul>
+<li>Are you sure you want to continue connecting (yes/no/[fingerprint])? yes</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>What is exaclty 'origin'? The name of the &quot;online&quot; git repository? </p>
+<ul>
+<li>&quot;origin&quot; is a shortcut for a URL. we can rename it and we can also let it point to other places and add more remotes and tomorrow we will see how and why. in this case, &quot;origin&quot; refers to the repository on github</li>
+</ul>
+</li>
+<li>
+<p>Maybe it would have been beneficial to have a short break rooms time to be sure all of us were ready to push.</p>
+<ul>
+<li>good point, but it is no::t critical that this works for the following. but thanks for the good point.</li>
+</ul>
+</li>
+<li>
+<p>I did not see were he found the url ON github</p>
+<ul>
+<li>informed instructor</li>
+</ul>
+</li>
+<li>
+<p>What does '-M' mean in the &quot;git branch -M main&quot;; does it mean renaming the master?</p>
+<ul>
+<li><code>-m</code> stands for &quot;move&quot;. </li>
+<li>Just as in the shell you rename a file with <code>mv old_name new_name</code>, in git you use &quot;moving&quot; to rename a branch.
+<ul>
+<li>Thanks!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Can we also clone using SSH link. Does that make any difference?</p>
+<ul>
+<li>The end result is the same, but if you have set up the ssh key, then using ssh is preferred: it's way more secure (and you don't have to type passwords etc every time)</li>
+</ul>
+</li>
+<li>
+<p>Is it possible to delete the default branch in GitHub? For some reason I now have both a Master (default) and a main branch, even if I renamed the origin to main.</p>
+<ul>
+<li>first change default branch to &quot;main&quot;</li>
+<li>then delete &quot;master&quot;, you always want (and need) at least some default branch on github</li>
+</ul>
+</li>
+<li>
+<p>Unrelated remark: providing the hackmd link on the intro page would be helpful to find it if one has accidently closed the page</p>
+<ul>
+<li>thanks</li>
+<li>Since anyone can edit, we tried to keep it a bit private.  But it's public on twitch so maybe it doesn't matter and should be there...</li>
+</ul>
+</li>
+<li>
+<p>What if one clones a repository that has the same name as a local directory. I mean if one does it accidentally, what happens? will everything get overwritten as per the remote repository?</p>
+<ul>
+<li>it will refuse to get cloned and tell you that there is already a folder with the same name and then you need to do <code>git clone someaddress someotherfolder</code> to create <code>someotherfolder</code></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p>How do github and gitlab free plans compare?</p>
+<ul>
+<li>When I last checked, Github had more restrictions on private repositories (need to pay for continuous integration)</li>
+<li>But public repositories on Github are more findable and there are more tools.</li>
+</ul>
+</li>
+<li>
+<p>Break-out room 24: There is an issue with screen sharing - only parts of the screen share works.</p>
+<ul>
+<li>The &quot;Screen share&quot; options are very limited for this user, and there is no way to choose what to share.</li>
+<li>somebody going there ...</li>
+</ul>
+</li>
+<li>
+<p>What is the significance of the flag -u while pushing the repository? I don't understand the description in the manual.</p>
+<ul>
+<li>Each branch remembers &quot;this is where I pull and push from&quot;.  It sets this config for the branch.</li>
+<li>the -u stands for upstream. you can type git push -h to see an overview of all flags!</li>
+</ul>
+</li>
+<li>
+<p>what was the split screen command at the beginning of your session?</p>
+<ul>
+<li>tmux, more details here: https://coderefinery.github.io/manuals/instructor-tech-setup/#terminal-history-window</li>
+</ul>
+</li>
+<li>
+<p>Is it possible to edit commit messages after making the commit?</p>
+<ul>
+<li>To edit the latest commit, you can use <code>git commit --amend</code></li>
+<li>This is shortly mentioned in <a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/05-undoing/">lesson 5</a> (though there the advertised use is for adding more files/edits, but it allows editing the message too)</li>
+</ul>
+</li>
+<li>
+<p>I have nothing against my face showing up elsewere, perhaps with a privacy statement this video on/off issue would be quick to solve</p>
+<ul>
+<li>We do have one, but at least I'm not comfortable with having a warning as the only safeguard.
+<ul>
+<li>I meant a declaration that if you video is on, then it is understood as you do not mind appering in the video.</li>
+<li>I'm still not quite confortable with only that.  privacy and avoiding the risk is too important</li>
+</ul>
+</li>
+<li>Would it work if people state in their name whether they consent (with a star or so?) </li>
+</ul>
+</li>
+</ul>
+<h2 id="inspecting-history">Inspecting history</h2>
+<p>https://coderefinery.github.io/git-intro/10-archaeology/</p>
+<ul>
+<li>
+<p>How to step out of the repository at terminal? I am not in the recipe or cloned recipe-2021 folder, but still it shows I am on branch master</p>
+<ul>
+<li>try <code>git status</code> to see whether you are in a repo (likely a repo got created somewhere above the current directory)</li>
+<li><code>git rev-parse --show-toplevel</code> shows where the repo is (it took way too long to find this...)</li>
+<li><code>cd ..</code> to change directory one level up</li>
+<li>if it still shows <code>master</code> also above, perhaps you accidentally made your whole HOME into a git repo by <code>git init</code>. If that is the case, a brutal delete of the <code>.git</code> folder might solve it.
+<ul>
+<li>safer: rename <code>.git</code> to <code>dot-git-backup</code> (then you can always rename back) 👍🏽</li>
+<li>I want to remove .git, it shows rm: remove write-protected regular file, how to deal with it?
+<ul>
+<li>try <code>mv .git dot-git-backup</code> does this work?</li>
+<li>yes, thanks
+<ul>
+<li>after this, if you want to get rid of the latter: <code>rm -r dot-git-backup</code>
+<ul>
+<li>still can't delete the folder, shows: &quot;rm: remove write-protected regular file&quot; </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>something that is not fuuly clear tome: does git grep searches both the current and past content and any branch known locally?</p>
+<ul>
+<li>only current state (&quot;HEAD&quot;) on current branch but all tracked files</li>
+<li>but it is also possible to search through changes (<code>git log -S</code> as demonstrated)
+<ul>
+<li>ok, thanks the instructor just said it</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Is &quot;git annotate&quot; an alias for &quot;git blame&quot;?</p>
+<ul>
+<li>in my understanding they do the same and can be used interchangeably. please correct me if somebody knows better.</li>
+</ul>
+</li>
+<li>
+<p>is there a git command similar to 'svn info'? That is, to give a simpler pointer to the current location, simpler than the git log.</p>
+<ul>
+<li>git show</li>
+</ul>
+</li>
+<li>
+<p>If we don't want to create and then delete a branch for examining past code, could we just use &quot;git checkout <branchash>&quot;, which results in a detached head state or somesuch?</p>
+<ul>
+<li>It's okay as long as you are not going to make any changes
+<ul>
+<li>because otherwise moving away from the new changes (commits) could make it difficult to find them if you don't have a branch pointing to them</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Earlier we used git branch experiment master to create a new branch. Can we also use git branch older-code <hash> to create the branch 'older-code' with a previous version?</p>
+<ul>
+<li>yes!</li>
+</ul>
+</li>
+<li>
+<p>Not currently on any branch after clone. Is that normal?</p>
+<ul>
+<li>You need to <code>cd &lt;dir&gt;</code> to be in the cloned repo on your local machine</li>
+<li>What does the command <code>git branch</code> print ?
+<ul>
+<li>it's after the clone and before checking out the exercise branch in the exercise.</li>
+<li>git status</li>
+<li>Not currently on any branch.</li>
+<li>nothing to commit, working tree clean</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>What is <code>checkout -b</code>? is it the same as first create a branch and then switch to it? </p>
+<ul>
+<li><code>git checkout -b &lt;newbranch&gt; &lt;olderbranch&gt;</code> creates a branch and switches to it</li>
+<li>it is the same as the combined <code>git branch &lt;newbranch&gt; &lt;olderbranch&gt;</code> ; <code>git checkout &lt;newbranch&gt;</code></li>
+<li>note that the <olderbranch> argument is optional, default is the branch you are on</li>
+</ul>
+</li>
+<li>
+<p>could you explain the &quot;detached HEAD&quot; thing? Maybe later in the main room or</p>
+<ul>
+<li>&quot;I've checked out something that isn't a branch&quot; (<code>git checkout &lt;hash&gt;</code>)</li>
+<li>it means &quot;HEAD&quot; points directly to a commit hash but not to a branch (&quot;HEAD&quot; is detached from any branch). you can still make commits but if you move away from them, you will have difficulties finding them if no branch points to them.</li>
+<li>if you do create new commits and &quot;lost&quot; them, you can still find them again using <code>git reflog</code> which keeps track of all hashes ever visited</li>
+<li>if you see it, you can ask &quot;will I want to make changes?&quot; if no, don't worry. if yes, create a new branch and continue then</li>
+</ul>
+</li>
+<li>
+<p>Are the commands <code>git switch --create &lt;newbranch&gt; &lt;hash&gt;</code> and <code>git checkout -b &lt;newbranch&gt; &lt;hash&gt;</code> equivalent?</p>
+<ul>
+<li>yes, the latter is the traditional way, the former is available in newer git (and was introduced to have a more intuitive user interface)</li>
+</ul>
+</li>
+<li>
+<p>At the bisect exercise I did <code>git log --oneline</code> and pressed F to go towards the end of all commits. Now it says <code>Waiting for data.. (interrupt to abort)</code></p>
+<ul>
+<li>you can CTRL+C and also try: <code>git log --oneline --reverse</code> 
+<ul>
+<li>Thanks</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>How do you return one commit back? Would something like git reset HASH~1 work? </p>
+<ul>
+<li><code>git checkout HASH~1</code> (will not create new branch, so goes to &quot;detached HEAD&quot; state)
+<ul>
+<li>Thanks! Would this be the same as git reset --hard?</li>
+<li>The <code>--hard</code> option means that all changes in the working directory will be lost. If you want to keep the file changes you should use the <code>--soft</code> option.</li>
+</ul>
+</li>
+<li><code>git reset HASH~1</code> will return one commit back. Use with <code>--soft</code> (default) if you want to keep the changes in the local directory or with the <code>--hard</code> option to remove the changes from the local directory (all untracked and uncommited changes lost).</li>
+</ul>
+</li>
+<li>
+<p>What about the opposite? Is there a shortcut option to get the &quot;children&quot; (<em>i.e.</em> newer) commit(s) of the HEAD?</p>
+<ul>
+<li>this is more difficult. in git, commits do not know children of commits, only parents. hence we always want a branch to point to a commit so that we can find them.
+<ul>
+<li>Related: There was some trick to list all commits, including ones not belonging to branches. (RB was mentioning it in one of the previous CR workshops. Sorry, I can't duckduckgo it😢)
+<ul>
+<li><code>git reflog</code> can find orphaned commits</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Did the whole Zoom meeting just end or is it just me?</p>
+<ul>
+<li>no, maybe your zoom client crashed (happens to me sometimes when moving back from exercise room)</li>
+<li>Weird I just completely lost the meeting. Will try to get back in.</li>
+<li>Unfortunately, this happens from time to time. Sometimes it can help to update your zoom version.</li>
+</ul>
+</li>
+<li>
+<p>Point 5 in the excercise needs to be explained: if this is not known already, there is no time to find this out in the BR.</p>
+<ul>
+<li>thanks, we need to add more context there</li>
+</ul>
+</li>
+<li>
+<p>We couldn't get this part (2) of the exercise       &quot;If this line got removed after we have created this exercise, find out when it was removed.&quot; Can you explain?</p>
+<ul>
+<li>The exercise was to look for a file in the source code. In this case, the line exists in the latest version of the code. Imagine that we instead are looking for a line of code which no longer exists (has been removed in a previous commit). This is where <code>git grep</code> (searches through files in current working-tree - it will not find lines no longer existing) differs from <code>git log -S</code> (searches through history - will find lines that no longer exists). Hopefully this clarifies.</li>
+</ul>
+</li>
+<li>
+<p>I feel like the bisect command is not really explained within the document, what does it do exactly?- </p>
+<ul>
+<li>Lets say something goes wrong in the code at somepoint. You need to find out where that happend. Instead of manually checking out commits one by one this is systamatic way to do this. instead of manually checking out commits, we tell git a commit that was working and git will help you to locate the commit that broke</li>
+</ul>
+</li>
+<li>
+<p>Once I am pointing at the commit where the old file version was, how can I restore into the main branch the file as it was in that version?</p>
+<ul>
+<li><code>git checkout main</code>, then <code>git checkout somefile theworkinghash</code>, then <code>git status</code>
+<ul>
+<li>Should this be <code>git checkout theworkinghash -- somefile</code> ? (<code>--</code> is optional and just for clarity)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>A basic question, do the files update when we switch between the branches? i meant the files in my workstation.</p>
+<ul>
+<li>yes, the files automatically get updated. If you have a tracked file open in some editor, the editor might complain &quot;file changed on disk...&quot;</li>
+</ul>
+</li>
+<li>
+<p>But why would I want to locate a bad commit? There is a bug that needs to be fixed. Debug -&gt; create new commit and push. </p>
+<ul>
+<li>Seeing the change might help you debug the code</li>
+<li>you may not know where the bug is
+<ul>
+<li>Ok so bisect has mainly debugging advantages, right?
+<ul>
+<li>It's basically a debugging tool</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>are the good/bad flags from bisect stored somewhere (i.e., tag)?</p>
+<ul>
+<li>Git will store them somewhere (but I don't know where)</li>
+<li>but they're not usual tags (which would point to a given commit permanently)</li>
+<li>you mean like if you want to retrace the &quot;path&quot; that git bisect took after you are done?</li>
+</ul>
+</li>
+<li>
+<p>Room 24: Screen sharing issues.</p>
+<ul>
+<li>Issue seems specific to X/Wayland, occuring in multiple Zoom versions. Did not help to switch to browser version.
+<ul>
+<li>I have heard about screen sharing issues with Wayland but am not using it myself to give a more competent answer.</li>
+<li>Possible &quot;solution&quot;: switch to X.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="feedback">Feedback</h2>
+<p>One thing that was particularly good today:</p>
+<ul>
+<li>
+<p>...</p>
+</li>
+<li>
+<p>last exercise, and some new functions I had never seen before: cool!</p>
+</li>
+<li>
+<p>I finally understand how to make branches in the terminal (not just on github) and use git graph. Really good explanation!</p>
+</li>
+<li>
+<p>the balance between explanations and exercises in groups with group leaders is rreally good! (general for all sessions)</p>
+</li>
+<li>
+<p>Time management and HackMD activity.</p>
+</li>
+</ul>
+<p>One thing we should improve for next time:</p>
+<ul>
+<li><code>git grep</code> output is pretty confusing: perhaps an example in the material would be good (&quot;this first thing here on each line of the output is the file name, then comes the actual matching line in the file...&quot;)</li>
+<li>it happened that pushing using ssh failed due to not inputting the passphrase. The first time we push it asks for a passphrase and the learner not providing it caused stuff to not get pushed. It might be helpful to write it out in the material that if you are prompted for a passphrase 1) it's the passphrase you set when creating the key 2) you need to provide it</li>
+<li>Bisect actual example would be great +2</li>
+<li>Remove hints to dependencies that are not needed in the excercise (e.g., rebase)</li>
+<li>I got confused with the useage of new commands and old commands like git branch and git checkout -b. I think the instruction websites should maybe get updated, especially 'Inspecting history'
+<ul>
+<li>good point. we were a bit conservative</li>
+</ul>
+</li>
+<li>As an exercise leader, I had some confusion during the last exercise. I could not answer some questions about [git log -S] (my bad) and there was some confusion since one could use [git checkout -b] and [git switch --create] to do basically the same thing. Maybe it will be useful to have a link pointing to the description of some command line arguments (for those interested) that have been used throughout the day, like for the ones in the git graph alias.
+<ul>
+<li>yes sorry, introducing two different versions of commands perhaps didn't help, see also above </li>
+</ul>
+</li>
+<li>An exercise on merge conflicts right after the relevant session would be great. +1</li>
+<li>I got stuck in the last exercise because the instruction to complete the second bullet poin (Find out when this line was last modified) is (very) hidden in the last sentence of the instructions above (before the discussion box). Since that is a key info, it woul help to bring it up. Moreover, it was not clear to me that the instruction and the exercise were not following the same sequence (e.g. point 2 of the exercise uses point 4 of the instructions). That is fine, it should just be clearer.</li>
+</ul>
+
+  
+
+          </div>
+          <div class="col-sm-2">
+            
+            <a href="https:&#x2F;&#x2F;coderefinery.org&#x2F;">
+              <img src="https://coderefinery.github.io/2021-05-10-workshop/processed_images/7f4da91af0b900d100.png" alt="CodeRefinery logo"
+                style="margin-top: 25px;">
+            </a>
+            
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="text-muted">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg">
+            <p>
+              <strong>Funding</strong>
+            </p>
+            <p>
+              CodeRefinery is a project within the
+              <a href="https://neic.no">Nordic e-Infrastructure Collaboration</a> (NeIC).
+              NeIC is an organisational unit under <a href="http://www.nordforsk.org/en">NordForsk</a>.
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Privacy</strong>
+            </p>
+            <p>
+              <a href="https://coderefinery.org/privacy-policy/">Privacy policy</a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Follow us</strong>
+            </p>
+            <p>
+              <a href="https://github.com/coderefinery" class="social">
+                <i class="bi bi-github" style="font-size: 2rem; color: black;"></i>
+              </a>
+
+              <a href="https://twitter.com/coderefine"  class="social" >
+                <i class="bi bi-twitter" style="font-size: 2rem; color: cornflowerblue;"></i>
+              </a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Contact</strong>
+            </p>
+            <p>
+              <a href="mailto:support@coderefinery.org">support@coderefinery.org</a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Improve this page</strong>
+            </p>
+            <p>
+              <a href="https://github.com/coderefinery/2021-05-10-workshop">Source code</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- end footer -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+      crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js@4.2.2/anchor.min.js"
+      integrity="sha256-E4RlfxwyJVmkkk0szw7LYJxuPlp6evtPSBDlWHsYYL8=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+
+      // https://github.com/twbs/bootstrap/issues/1768#issuecomment-6531466
+      var shiftWindow = function () { scrollBy(0, -100) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
+
+  </body>
+</html>
